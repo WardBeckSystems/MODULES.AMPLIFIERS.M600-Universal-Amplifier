@@ -59,7 +59,7 @@ Optional front pane Qain control
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M600/PHOTOS/1970 - M600 - wbsps - module - m600 - front.jpg",
+ "file": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - wbsps - module - m600 - front.jpg",
  "sha256": "7fc67db7aea8a911463dd19c3ec135b1a90c7696421e8d1934c369590893790e",
  "kind": "module",
  "models": [

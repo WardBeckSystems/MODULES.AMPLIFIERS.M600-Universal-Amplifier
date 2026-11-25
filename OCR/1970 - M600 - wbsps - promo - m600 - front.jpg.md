@@ -59,7 +59,7 @@ WB8 Mboo
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M600/PHOTOS/1970 - M600 - wbsps - promo - m600 - front.jpg",
+ "file": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - wbsps - promo - m600 - front.jpg",
  "sha256": "c1d459d27ee7b9d326effe1f4f409d172db6639e0bcb0e49a04002dda8073e1b",
  "kind": "module",
  "models": [

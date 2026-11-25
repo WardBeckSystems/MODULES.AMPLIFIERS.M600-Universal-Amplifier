@@ -37,7 +37,7 @@ WB8 Mboo
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M600/PHOTOS/1970 - M600 - Ward Beck Systems M600.jpg",
+ "file": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Ward Beck Systems M600.jpg",
  "sha256": "db308eebb45a6cbe1d19a9d4c071f547ea33434259bb307971b3bd7c7cbf9e6b",
  "kind": "module",
  "models": [

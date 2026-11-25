@@ -63,7 +63,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M600/PHOTOS/1970 - M600 - wbsps - module - m600 - back.jpg",
+ "file": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - wbsps - module - m600 - back.jpg",
  "sha256": "0e425c412e22d071412976a2a5530ada13a6640db0fa0a5ef9492c16d11e47c0",
  "kind": "module",
  "models": [

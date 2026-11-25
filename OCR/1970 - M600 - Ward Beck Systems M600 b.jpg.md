@@ -63,7 +63,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M600/PHOTOS/1970 - M600 - Ward Beck Systems M600 b.jpg",
+ "file": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Ward Beck Systems M600 b.jpg",
  "sha256": "36139c5b74de2abb968c5e855057589bc2dea3c7e7326e88e561905cb118911c",
  "kind": "module",
  "models": [

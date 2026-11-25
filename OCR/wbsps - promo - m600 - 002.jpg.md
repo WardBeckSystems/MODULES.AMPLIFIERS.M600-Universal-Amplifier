@@ -61,7 +61,7 @@ WbspsC
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M600/PHOTOS/wbsps - promo - m600 - 002.jpg",
+ "file": "Modules/AMPLIFIERS/M600/MANUALS/wbsps - promo - m600 - 002.jpg",
  "sha256": "5fd3e7f1bc0c81518a34ff3ae53289abf68ea3041573cb20bf4ac9e875bf7221",
  "kind": "module",
  "models": [
