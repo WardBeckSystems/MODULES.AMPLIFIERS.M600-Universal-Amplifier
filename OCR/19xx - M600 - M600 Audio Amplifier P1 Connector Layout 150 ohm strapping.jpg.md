@@ -19,6 +19,19 @@ M600 audio amplifier P1 connector layout, 150 ohm strapping, page 10-2.
 - **Size:** 214,993 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–335 mm across, 0–425 mm up
+- **Outlines:** line 94 rings, 2,978 straight (6,488 mm) / 359 curved (608 mm); text 270 rings, 2,374 straight (2,902 mm) / 569 curved (917 mm); tb 26 rings, 330 straight (487 mm) / 57 curved (68.4 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (162.2, 161.7), r 1.6 @ (162.1, 172.2), r 1.6 @ (161.9, 235.9)
+- **Closed boxes:** 3
+- **Dots (junctions):** 3
+- **Words (OCR):** 52 in 35 lines: WARD-BECK SYSTems · AMPL IFIER · M6oo AUD/0 · P1 · CONNECTOR LAYOUT · 150 OHM STRAPP ING · 90 · 10 · com · +48V · 26 · 100
+- **Title block:** (26, 336)–(216, 430) mm: WARD-BECK SYSTems · AMPL IFIER · M6oo AUD/0 · P1 · CONNECTOR LAYOUT · 150 OHM STRAPP ING
+
+Every curve, box, word and wire group: [19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping (traced).json](../PINOUTS/19xx%20-%20M600%20-%20M600%20Audio%20Amplifier%20P1%20Connector%20Layout%20150%20ohm%20strapping%20%28traced%29.json) (the CAD file: `19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

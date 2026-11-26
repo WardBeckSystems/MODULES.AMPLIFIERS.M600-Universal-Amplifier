@@ -35,7 +35,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (264, 37)–(432, 104) mm: IISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: JRG 02/87 · ENG Gzg · CUE CHANNEL · CKD. · SCHEMA TIC · APP · SCALE DISC NO: 130 · 600-02-007 · ISSUE · CODE: 600S07
 - **Wiring (first pass):** 40 connected wire groups from 141 runs; labelled ends: 570 mm → CUE, BELDEN, #8451, 22; 95 mm → +25v, 20, 22; 73 mm → 14R, TB2, 121,122; 51 mm → 2B; 34 mm → BELDEN, #8451, To, CUE
 
-Every curve, box, word and wire group: [1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

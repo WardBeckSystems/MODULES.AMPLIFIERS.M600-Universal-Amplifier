@@ -36,7 +36,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (291, 6)–(428, 30) mm: MOD CKD · WBS WARD-BECK BysTEME LTD_ · Meoo · EXTERNAL CONNECTIONS · SCALE · Soo-O2-006
 - **Wiring (first pass):** 85 connected wire groups from 539 runs; labelled ends: 206 mm → MGOO, Mi57 N? 2; 84 mm → Is0n CUTPUT; 54 mm → 54J8, MGOO, (-2848); 51 mm → MGOO; 50 mm → M6OO
 
-Every curve, box, word and wire group: [1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1 (traced).json](../PINOUTS/1975%20-%20600-02-006%20-%20EXTERNAL%20CONNECTIONS%20-%20DRN%20DM%20-%20ISS%201%20(traced).json) (the CAD file: `1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1 (traced).json](../PINOUTS/1975%20-%20600-02-006%20-%20EXTERNAL%20CONNECTIONS%20-%20DRN%20DM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1 (traced).dxf`).
 
 ## Full text
 

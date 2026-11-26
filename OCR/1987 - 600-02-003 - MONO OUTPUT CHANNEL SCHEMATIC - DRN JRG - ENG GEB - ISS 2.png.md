@@ -35,7 +35,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (267, 15)–(432, 83) mm: MODIFIED PROGRAM OUTPUTS · basl · 11/8 · (ISSUE] DATE · REVISION · APP_ · WBS · WARD-BECK SYSTEMS · DRN: JRG 02/87 · ENG. · G1 · MONO · OUTPUT CHANNEL · CKD: · SCHEMA TIC · APP. · SCALE DISC NO: 130 ·
 - **Wiring (first pass):** 22 connected wire groups from 184 runs; labelled ends: 634 mm → MONQ_QUTPUT_CHANNEL, TB2, 73,74, (78); 342 mm → MONQ_QUTPUT_CHANNEL, M497, 11,M, MONO; 111 mm → basl; 84 mm → ~25v, +25v, 19, Izo; 63 mm → (75), 76,77
 
-Every curve, box, word and wire group: [1987 - 600-02-003 - MONO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 2 (traced).json](../SCHEMATICS/1987%20-%20600-02-003%20-%20MONO%20OUTPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1987 - 600-02-003 - MONO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 600-02-003 - MONO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 2 (traced).json](../SCHEMATICS/1987%20-%20600-02-003%20-%20MONO%20OUTPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1987 - 600-02-003 - MONO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

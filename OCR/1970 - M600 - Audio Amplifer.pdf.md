@@ -22,7 +22,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Words (OCR):** 13 in 9 lines: WAAD-BECK SYSTEMS · WBS 841 PAOGAESS AVENUE SCAABOAOUGH, ONTARIO M1h2xa · Telex · 065-25399 · TELEPHONE; 416/438-6550 · M6oo · AUDIO AMPLIFIER · MANUAL ISSUE #6 · December 17. 1987
 - **Title block:** (46, 60)–(305, 424) mm: WAAD-BECK SYSTEMS · WBS 841 PAOGAESS AVENUE SCAABOAOUGH, ONTARIO M1h2xa · Telex · 065-25399 · TELEPHONE; 416/438-6550 · M6oo · AUDIO AMPLIFIER · MANUAL ISSUE #6
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p1 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p1%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p1 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p1%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p1 (traced)
 - **Words (OCR):** 78 in 59 lines: WAAD-BECK · LTD_ · TABLE · OF · CONTENTS · Mgoo AUDI0 AMPL IFIER · SECT ION · PAGE · Warranty · Technical Data · 1-1 · General
 - **Title block:** (24, 185)–(175, 427) mm: WAAD-BECK · LTD_ · TABLE · OF · Mgoo AUDI0 AMPL IFIER · SECT ION · Warranty · Technical Data · General · circuit · Description · Installation · Maintenance · DC · Voltage Chart · Amplifier Connections
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p2 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p2%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p2 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p2%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p2 (traced)
 - **Words (OCR):** 174 in 90 lines: WAAD-BECK · SYStems LTD · TECHNICAL · DATA · M6oo AUDI0 · AMPLIFIER · 50-70 dB, · 0.5 dB _ · Transducer Gain: · dB from 20 Hz t0 · Frequency Response · 0.25
 - **Title block:** (22, 404)–(132, 429) mm: WAAD-BECK · SYStems LTD
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p3 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p3%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p3 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p3 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p3%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p3 (traced)
 - **Words (OCR):** 206 in 127 lines: WAAD-BECK systems · LTD · GENERAL · M6oo AUD/0 · AMPL IFIER · The M6oo is · high · performance · audio amplifier · desi · gned · specifically
 - **Title block:** (23, 120)–(163, 428) mm: WAAD-BECK systems · LTD · M6oo AUD/0 · The M6oo is · high · performance · for · professional applications in the · industries · The unit · dBm ) · high output · capabil · ity · and exceptionally low t
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p4 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p4%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p4 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p4 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p4%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p4 (traced).dxf`).
 
 ### Page 5
 
@@ -64,7 +64,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p4 (traced)
 - **Words (OCR):** 328 in 160 lines: WAAD-BECK SysTEMS LTD · CiRcuiT · DESCRiPTiON · Audio AMPLIFIER · Mgoo · Refer to · schematic · diagram B6oo-02-010 and · 8122-02-001 01 through · 03 comprise · noise, wide · dynamic range,
 - **Title block:** (24, 174)–(135, 431) mm: WAAD-BECK SysTEMS LTD · Refer to · schematic · 03 comprise · Iow · NPN PNP · configuration assures · characteristics · temperature · The · input signal · is · operate · from · 150 or · reflects · high
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p5 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p5%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p5 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p5 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p5%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p5 (traced).dxf`).
 
 ### Page 6
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p5 (traced)
 - **Outlines:** line 38 rings, 757 straight (3,271 mm) / 79 curved (113 mm); text 409 rings, 2,948 straight (3,404 mm) / 896 curved (1,400 mm)
 - **Words (OCR):** 60 in 30 lines: WAAD-BECK systems LTD_ · CiRcuIT DESCRIPTION · Mgoo Audi0 · AMPLIFIER · The M6oo output · mpedance is · pri marily that of the dc · winding · T2 . · resistance of output · transformer · T2 primary
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p6 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p6%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p6 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p6 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p6%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p6 (traced).dxf`).
 
 ### Page 7
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p6 (traced)
 - **Words (OCR):** 338 in 174 lines: WAAD-BECK SySTEms LTD · INSTALLATION · M6oo AUDI0 · AMPLIFIER · The M6oo · plugs directly into · the · MF6 · mounting · frame · which may · bc
 - **Title block:** (23, 92)–(175, 431) mm: WAAD-BECK SySTEms LTD · INSTALLATION · M6oo AUDI0 · The M6oo · plugs directly into · the · standard 19 inch equipment rack · installed in · supplied with the rack · order to · compliment in · accept ·
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p7 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p7%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p7 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p7 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p7%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p7 (traced).dxf`).
 
 ### Page 8
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p7 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 322 in 186 lines: WAAD-BECK SYSTEMS LTD_ · MAINTENANCE · M6oo AUDiO · AMPLIFIER · dependab troublc-free · service; however · The · M6oo is · designed · for · Te, · with all
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p8 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p8%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p8 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p8 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p8%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p8 (traced).dxf`).
 
 ### Page 9
 
@@ -103,7 +103,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p8 (traced)
 - **Outlines:** line 27 rings, 791 straight (3,595 mm) / 81 curved (133 mm); text 299 rings, 2,185 straight (2,550 mm) / 725 curved (1,113 mm)
 - **Words (OCR):** 65 in 56 lines: WAAD-BECK systems LTD_ · M6oo AUDI0 AMPL IF IER · DC VOL TAGE CHART M122 · VE · VB · VC · 01 · 0 .8 · 1.3 · 34 · 02 · 34.6
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p9 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p9%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p9 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p9 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p9%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p9 (traced).dxf`).
 
 ### Page 10
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p9 (traced)
 - **Words (OCR):** 59 in 40 lines: WAAD-BECK Systems · LTD · M6oo AUDI0 · AMPL IFIER · PI · AMPLIF IER RECEPTACLE CONNECLONS · SOURCE MPEDANCE: · JUMPER · CONNECT: · 150 · ohms · 15 t0
 - **Title block:** (18, 407)–(129, 432) mm: WAAD-BECK Systems
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p10 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p10%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p10 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p10 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p10%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p10 (traced).dxf`).
 
 ### Page 11
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p10 (traced
 - **Outlines:** line 53 rings, 1,425 straight (4,813 mm) / 199 curved (326 mm); text 269 rings, 2,183 straight (2,650 mm) / 646 curved (1,084 mm)
 - **Words (OCR):** 55 in 45 lines: WAAD-BECK Sybtems LTD_ · Mgoo AUDI0 AMPLIFIER · GAIN · vs GAIN SET · RESISTANCE · 70 · 68 · 66 · 64 · 62 · 60 · 58
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p11 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p11%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p11 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p11 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p11%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p11 (traced).dxf`).
 
 ### Page 12
 
@@ -132,7 +132,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p11 (traced
 - **Words (OCR):** 131 in 116 lines: WAAD-BECK systems LTD; · PARTS LiST · M6oo · AMPLIF IER · PART · DESCRIPT ION · MFG · MFG PART NUMBER · Capacitor · 220 · pF · Philips
 - **Title block:** (24, 112)–(206, 426) mm: WAAD-BECK systems LTD; · PARTS LiST · M6oo · AMPLIF IER · PART · DESCRIPT ION · MFG · Capacitor · 220 · pF · Philips · C2 · 22 · uF/63 · C3 · C4 · 470 · pF · C5 · uF/35 · Kemet · C6 · 22 uF/63 · Phili
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p12 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p12%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p12 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p12 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p12%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p12 (traced).dxf`).
 
 ### Page 13
 
@@ -141,7 +141,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p12 (traced
 - **Outlines:** line 161 rings, 1,515 straight (3,866 mm) / 251 curved (380 mm); text 467 rings, 3,570 straight (4,263 mm) / 1,090 curved (1,720 mm)
 - **Words (OCR):** 88 in 82 lines: WAAD-BECK STSTEMS LTD; · PARIS LiST · M6oo AUDIO · AMPLIFIER · MFG PART · NUMBER · PART · DESCRIPT |ON · MFG · Mm3007 · 09 · Transistor
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p13 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p13%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p13 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p13 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p13%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p13 (traced).dxf`).
 
 ### Page 14
 
@@ -151,7 +151,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p13 (traced
 - **Words (OCR):** 91 in 70 lines: WAAD-BECK systems LTD · PARTS · List · AMPLIFIER · PART · DESCRIPTION · MFG · MFG · PART NUMBER · R3I · Resistor 1/4w · 22
 - **Title block:** (25, 34)–(258, 429) mm: WAAD-BECK systems LTD · PARTS · List · AMPLIFIER · PART · DESCRIPTION · MFG · MFG · R3I · Resistor 1/4w · 22 · Philips · R32 · 100 · R33 · 15k · R34 · 100 · R35 · 56 · R36 · 3k3 · R37 · /2w · 27 · R38
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p14 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p14%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p14 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p14 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p14%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p14 (traced).dxf`).
 
 ### Page 15
 
@@ -164,7 +164,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p14 (traced
 - **Words (OCR):** 53 in 34 lines: WARD-BECK SYSTEMS LTD · AMPLIF IER · M6oo AUDI0 · P1 CONNECTOR LAYOUT · 600 OHM · STRAPP ING · CHAsSIS · GND · 90 · 10 · com · 00
 - **Title block:** (20, 336)–(210, 431) mm: WARD-BECK SYSTEMS LTD · AMPLIF IER · M6oo AUDI0 · P1 CONNECTOR LAYOUT · 600 OHM · STRAPP ING
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p15 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p15%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p15 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p15 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p15%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p15 (traced).dxf`).
 
 ### Page 16
 
@@ -177,7 +177,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p15 (traced
 - **Words (OCR):** 52 in 35 lines: WAAD-BECK SYSTEMS LTO · M6oo AUDI0 AMPL IFIER · P1 · CONNECTOR LAYoUT · 150 OHM · STRAPP ING · 90 · 10 · com · +48V · 26 · 100
 - **Title block:** (26, 336)–(216, 430) mm: WAAD-BECK SYSTEMS LTO · M6oo AUDI0 AMPL IFIER · P1 · CONNECTOR LAYoUT · 150 OHM · STRAPP ING
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p16 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p16%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p16 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p16 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p16%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p16 (traced).dxf`).
 
 ### Page 17
 
@@ -189,7 +189,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p16 (traced
 - **Dots (junctions):** 2
 - **Words (OCR):** 179 in 98 lines: WAAD-BECK sysTeMs LTD · M6oo AUDI0 AMPLIFIER · ADDENDUM · Purpose · Addendum · To describe · necessary · wiring and mounting · required for up · from one · Mgoo · individually isolated
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p17 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p17%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p17 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p17 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p17%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p17 (traced).dxf`).
 
 ### Page 18
 
@@ -198,7 +198,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p17 (traced
 - **Outlines:** line 125 rings, 1,979 straight (4,164 mm) / 260 curved (394 mm); text 78 rings, 589 straight (558 mm) / 209 curved (312 mm)
 - **Words (OCR):** 17 in 13 lines: 60- · RD · 5A12Z · AUDI0 AMPLIFIER ASSEMBLY · 150/600 · GN · SHIELD · GAIN SET · Cw · R1OI · Sk LoG · SENSITIV |
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p18 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p18%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p18 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p18 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p18%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p18 (traced).dxf`).
 
 ### Page 19
 
@@ -211,7 +211,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p18 (traced
 - **Title block:** (209, 40)–(337, 65) mm: WBS WARD-BECK BYSTEMB
 - **Wiring (first pass):** 50 connected wire groups from 127 runs; labelled ends: 371 mm → 70-J; 54 mm → 70-J, RD; 52 mm → 70-J; 9 mm → OR
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p19 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p19%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p19 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p19 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p19%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p19 (traced).dxf`).
 
 ### Page 20
 
@@ -222,7 +222,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p19 (traced
 - **Dots (junctions):** 3
 - **Words (OCR):** 58 in 48 lines: mis7 PAo BOARD Assy · (-61 · 300 · Joo · MATCH GAIN · 300 · INCL . aBm CorR | · dB · ~361 · Z8a8m · LaBm · 300
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p20 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p20%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p20 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p20 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p20%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p20 (traced).dxf`).
 
 ### Page 21
 
@@ -236,7 +236,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p20 (traced
 - **Title block:** (210, 45)–(336, 70) mm: WBS WARD-BECK SYBTEMB
 - **Wiring (first pass):** 50 connected wire groups from 119 runs; labelled ends: 473 mm → J00, 28d8m, 3J00, Jk9; 16 mm → M6oo; 16 mm → Jk9; 14 mm → 3J00; 14 mm → J00
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p21 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p21%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p21 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p21 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p21%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p21 (traced).dxf`).
 
 ### Page 22
 
@@ -246,7 +246,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p21 (traced
 - **Closed boxes:** 7; named: M468 PST; INSULATED GROUND BAR
 - **Words (OCR):** 25 in 22 lines: output · INPUT · ~LBV · M468 · PST · 50/60 · TISV · INPUT · INPUT · inPuT · INPUT · INPUT
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p22 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p22%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p22 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p22 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p22%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p22 (traced).dxf`).
 
 ### Page 23
 
@@ -257,7 +257,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p22 (traced
 - **Words (OCR):** 15 in 12 lines: ML68 · 10.11 · PST · 50/60 · ITED · BAR · WBS WARD-BECK SYSTEMS · M600 · AUDIO AMPLIFIER · TYPICAL SYSTEM WIRING SCHEMATIC · 600 - 02-012 · ISS.
 - **Title block:** (204, 48)–(333, 74) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p23 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p23%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p23 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p23 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p23%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p23 (traced).dxf`).
 
 ### Page 24
 
@@ -266,7 +266,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p23 (traced
 - **Outlines:** line 176 rings, 3,130 straight (7,628 mm) / 588 curved (790 mm)
 - **Words (OCR):** 1 in 1 lines: 74600
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p24 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p24%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p24 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p24 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p24%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p24 (traced).dxf`).
 
 ### Page 25
 
@@ -276,7 +276,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p24 (traced
 - **Words (OCR):** 9 in 8 lines: 74600 · WBS · WARD-BECK SYSTEMS · M600 · AUdio AMPLIFIER · PERSPECTIVE LAYOUT · 6 0 0-04-0 10 · ISS.1
 - **Title block:** (207, 44)–(334, 69) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p25 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p25%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p25 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p25 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p25%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p25 (traced).dxf`).
 
 ### Page 26
 
@@ -287,7 +287,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p25 (traced
 - **Closed boxes:** 1
 - **Words (OCR):** 49 in 48 lines: 1SK · C3 · 22/63 · BK} · 3z0 · R2 · I20k · BK 2 · 150 · RsR · 4.7/35 · R13
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p26 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p26%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p26 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p26 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p26%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p26 (traced).dxf`).
 
 ### Page 27
 
@@ -298,7 +298,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p26 (traced
 - **Words (OCR):** 77 in 76 lines: RJA · CRJ · +L8v · INLOOJ · 100/63 · C12 · C15 · C16 · 47/63 · 0.01 · Siook · R24
 - **Title block:** (194, 54)–(322, 79) mm: WBS · WAAD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p27 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p27%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p27 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p27 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p27%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p27 (traced).dxf`).
 
 ### Page 28
 
@@ -308,7 +308,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p27 (traced
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 10.5 @ (210.5, 178.7), r 7.9 @ (165.0, 226.1), r 5.4 @ (108.7, 195.3)
 - **Words (OCR):** 82 in 79 lines: 15K · R19 JSK · R21 220 · R6 · 02)PN3645 · 2N3819 · R7 · 150 · 100K · 'R18 39K · R24 · RL 8KZ
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p28 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p28%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p28 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p28 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p28%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p28 (traced).dxf`).
 
 ### Page 29
 
@@ -320,7 +320,7 @@ Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p28 (traced
 - **Words (OCR):** 50 in 46 lines: 20 · QOK · K2 · R34 100 · 09 · Mm3oo7 · MM3OO · R3z 100 · 3569 · PN3645 · z0 · 27 /2w R39
 - **Title block:** (185, 53)–(314, 78) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p29 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p29%20(traced).json) (the CAD file: `1970 - M600 - Audio Amplifer p29 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - Audio Amplifer p29 (traced).json](../MANUALS/1970%20-%20M600%20-%20Audio%20Amplifer%20p29%20%28traced%29.json) (the CAD file: `1970 - M600 - Audio Amplifer p29 (traced).dxf`).
 
 ## Full text
 

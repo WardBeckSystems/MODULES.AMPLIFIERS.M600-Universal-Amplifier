@@ -34,7 +34,7 @@ M600 audio amplifier schematic, cropped.
 - **Title block:** (209, 40)–(337, 65) mm: WBS WARD-BECK BYSTEMB
 - **Wiring (first pass):** 47 connected wire groups from 157 runs; labelled ends: 383 mm → T2, 70-J, BR; 54 mm → T2, 70-J, RO; 52 mm → T2, 70-J; 8 mm → OR; 6 mm → OR
 
-Every curve, box, word and wire group: [19xx - 600-02-010 - AUDIO AMPLIFIER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20600-02-010%20-%20AUDIO%20AMPLIFIER%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 600-02-010 - AUDIO AMPLIFIER SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 600-02-010 - AUDIO AMPLIFIER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20600-02-010%20-%20AUDIO%20AMPLIFIER%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 600-02-010 - AUDIO AMPLIFIER SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

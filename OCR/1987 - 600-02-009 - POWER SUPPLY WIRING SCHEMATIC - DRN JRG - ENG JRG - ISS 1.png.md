@@ -35,7 +35,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (265, 40)–(432, 107) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN · JRG 02/87 · ENG ea · POWER SUPPLY WIRING · CKD: · SCHEMA TIC · APP · SCALE DISC NO: 130 · ISSUE · CODE: 600s09 · 600-02-009
 - **Wiring (first pass):** 28 connected wire groups from 169 runs; labelled ends: 780 mm → P2-123, P2-91011, P2-L23, CHASSIS; 333 mm → (WIRED; 152 mm → SCALE; 67 mm → P2-123, TB9; 67 mm → P2-L23
 
-Every curve, box, word and wire group: [1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-009%20-%20POWER%20SUPPLY%20WIRING%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20JRG%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-009%20-%20POWER%20SUPPLY%20WIRING%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20JRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

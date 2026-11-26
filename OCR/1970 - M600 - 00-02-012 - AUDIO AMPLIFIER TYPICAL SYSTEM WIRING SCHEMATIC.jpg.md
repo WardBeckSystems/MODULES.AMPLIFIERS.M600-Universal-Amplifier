@@ -22,7 +22,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (205, 48)–(333, 73) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 6 connected wire groups from 48 runs; labelled ends: 530 mm → 2,3, 10., ITED, BAR; 52 mm → 2,3; 21 mm → ITED, BAR
 
-Every curve, box, word and wire group: [1970 - M600 - 00-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M600%20-%2000-02-012%20-%20AUDIO%20AMPLIFIER%20TYPICAL%20SYSTEM%20WIRING%20SCHEMATIC%20(traced).json) (the CAD file: `1970 - M600 - 00-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - 00-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M600%20-%2000-02-012%20-%20AUDIO%20AMPLIFIER%20TYPICAL%20SYSTEM%20WIRING%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1970 - M600 - 00-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC (traced).dxf`).
 
 ## Full text
 

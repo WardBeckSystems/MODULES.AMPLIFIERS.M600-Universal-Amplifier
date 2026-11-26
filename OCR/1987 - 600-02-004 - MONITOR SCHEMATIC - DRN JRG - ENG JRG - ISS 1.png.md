@@ -35,7 +35,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (270, 16)–(432, 85) mm: APP · ISSUE DATE · REVISION · WBS · WARD-BECK · SYSTEMS · DRN.JRG 02/87 · MONITOR · ENG La · SCHEMATIC · CKD · APP_ · ISSUE · SCALE DISC NO: 130 · 600-02-004 · CODE: 600S04
 - **Wiring (first pass):** 40 connected wire groups from 250 runs; labelled ends: 841 mm → MONITOR CHANNEL, TB2, 88,89 R, 94,95; 205 mm → MONITOR CHANNEL, MONITOR, 8J, 10; 136 mm → 600-02-004; 80 mm → 3.C, L127,128, (129), MONO; 68 mm → MONO
 
-Every curve, box, word and wire group: [1987 - 600-02-004 - MONITOR SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-004%20-%20MONITOR%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20JRG%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 600-02-004 - MONITOR SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 600-02-004 - MONITOR SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-004%20-%20MONITOR%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20JRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 600-02-004 - MONITOR SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -39,7 +39,7 @@ Faint block diagram with specification notes, title block at lower right illegib
 - **Words (OCR):** 28 in 27 lines: (19) · PRE · SPL"TTEP · SYSTEM Gain · smown · 48 48 · (TRAWS DUCER) · 7ru 2407 · 4v0'o · HAHE · (TRANEDUCEP) · 10 * 4
 - **Wiring (first pass):** 78 connected wire groups from 672 runs; labelled ends: 78 mm → BECK, FOA, 600; 54 mm → SUSIEL, SYSTEM, BECK; 48 mm → 600; 42 mm → 0c7; 38 mm → BECK, SUSIEL, SYSTEM
 
-Every curve, box, word and wire group: [1970 - 600-02-005 - M600R SYSTEM FOR CDL A V SWITCHER APPLICATION (traced).json](../SCHEMATICS/1970%20-%20600-02-005%20-%20M600R%20SYSTEM%20FOR%20CDL%20A%20V%20SWITCHER%20APPLICATION%20(traced).json) (the CAD file: `1970 - 600-02-005 - M600R SYSTEM FOR CDL A V SWITCHER APPLICATION (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 600-02-005 - M600R SYSTEM FOR CDL A V SWITCHER APPLICATION (traced).json](../SCHEMATICS/1970%20-%20600-02-005%20-%20M600R%20SYSTEM%20FOR%20CDL%20A%20V%20SWITCHER%20APPLICATION%20%28traced%29.json) (the CAD file: `1970 - 600-02-005 - M600R SYSTEM FOR CDL A V SWITCHER APPLICATION (traced).dxf`).
 
 ## Full text
 

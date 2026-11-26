@@ -34,7 +34,7 @@ M600 audio amplifier typical system wiring schematic, cropped.
 - **Title block:** (205, 48)–(332, 73) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 3 connected wire groups from 115 runs; labelled ends: 534 mm → ITED, BAR
 
-Every curve, box, word and wire group: [19xx - 600-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20600-02-012%20-%20AUDIO%20AMPLIFIER%20TYPICAL%20SYSTEM%20WIRING%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 600-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 600-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20600-02-012%20-%20AUDIO%20AMPLIFIER%20TYPICAL%20SYSTEM%20WIRING%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 600-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

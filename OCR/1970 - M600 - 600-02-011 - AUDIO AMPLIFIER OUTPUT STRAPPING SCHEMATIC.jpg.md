@@ -23,7 +23,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (210, 45)–(336, 70) mm: WBS WARD-BECK SYSTEMB
 - **Wiring (first pass):** 51 connected wire groups from 117 runs; labelled ends: 211 mm → 28d8m, 3k9, SETTING; 181 mm → 300, I2d8, HANO, SETTING; 126 mm → 300; 16 mm → M6oo; 14 mm → 300
 
-Every curve, box, word and wire group: [1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC (traced).json](../PINOUTS/1970%20-%20M600%20-%20600-02-011%20-%20AUDIO%20AMPLIFIER%20OUTPUT%20STRAPPING%20SCHEMATIC%20(traced).json) (the CAD file: `1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC (traced).json](../PINOUTS/1970%20-%20M600%20-%20600-02-011%20-%20AUDIO%20AMPLIFIER%20OUTPUT%20STRAPPING%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC (traced).dxf`).
 
 ## Full text
 

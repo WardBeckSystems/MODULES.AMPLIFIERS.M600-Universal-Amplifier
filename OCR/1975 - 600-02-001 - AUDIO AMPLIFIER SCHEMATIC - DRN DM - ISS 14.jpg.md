@@ -36,7 +36,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (348, 7)–(410, 29) mm: WBS · WARD-BeCK · MEOO · cKD; · AuDiO AMPLIFIER SCHEMAT
 - **Wiring (first pass):** 105 connected wire groups from 721 runs; labelled ends: 340 mm → R3i, R9, P33, 012; 307 mm → USD07, cKD;; 206 mm → P29, 824, 220, 2nzioz; 138 mm → R3o, R36, CP3, R32; 135 mm → C14, 282102, 2n2102
 
-Every curve, box, word and wire group: [1975 - 600-02-001 - AUDIO AMPLIFIER SCHEMATIC - DRN DM - ISS 14 (traced).json](../SCHEMATICS/1975%20-%20600-02-001%20-%20AUDIO%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%2014%20(traced).json) (the CAD file: `1975 - 600-02-001 - AUDIO AMPLIFIER SCHEMATIC - DRN DM - ISS 14 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 600-02-001 - AUDIO AMPLIFIER SCHEMATIC - DRN DM - ISS 14 (traced).json](../SCHEMATICS/1975%20-%20600-02-001%20-%20AUDIO%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%2014%20%28traced%29.json) (the CAD file: `1975 - 600-02-001 - AUDIO AMPLIFIER SCHEMATIC - DRN DM - ISS 14 (traced).dxf`).
 
 ## Full text
 

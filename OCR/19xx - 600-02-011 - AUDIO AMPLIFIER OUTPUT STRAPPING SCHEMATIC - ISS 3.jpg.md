@@ -34,7 +34,7 @@ M600 audio amplifier output strapping schematic, cropped.
 - **Title block:** (210, 45)–(336, 70) mm: WBS WARD-BECK SYSTEMB
 - **Wiring (first pass):** 49 connected wire groups from 146 runs; labelled ends: 319 mm → 300; 188 mm → 28d8m, 3k9; 14 mm → 300; 14 mm → 300; 14 mm → 00
 
-Every curve, box, word and wire group: [19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3 (traced).json](../PINOUTS/19xx%20-%20600-02-011%20-%20AUDIO%20AMPLIFIER%20OUTPUT%20STRAPPING%20SCHEMATIC%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3 (traced).json](../PINOUTS/19xx%20-%20600-02-011%20-%20AUDIO%20AMPLIFIER%20OUTPUT%20STRAPPING%20SCHEMATIC%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3 (traced).dxf`).
 
 ## Full text
 

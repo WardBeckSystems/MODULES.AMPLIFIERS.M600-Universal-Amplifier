@@ -22,7 +22,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Words (OCR):** 24 in 22 lines: output · inPuT · +48V · M468 · PSI · 50/60 · INpUT · INPUT · INPUT · INPUT · INPUT · INPUT
 - **Wiring (first pass):** 26 connected wire groups from 213 runs; labelled ends: 272 mm → output; 46 mm → Mounting FRAME
 
-Every curve, box, word and wire group: [1970 - M600 - 600-02-012 - INSULATED MOUNTING FRAME GROUND BAR AND CHASSIS (traced).json](../SCHEMATICS/1970%20-%20M600%20-%20600-02-012%20-%20INSULATED%20MOUNTING%20FRAME%20GROUND%20BAR%20AND%20CHASSIS%20(traced).json) (the CAD file: `1970 - M600 - 600-02-012 - INSULATED MOUNTING FRAME GROUND BAR AND CHASSIS (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - 600-02-012 - INSULATED MOUNTING FRAME GROUND BAR AND CHASSIS (traced).json](../SCHEMATICS/1970%20-%20M600%20-%20600-02-012%20-%20INSULATED%20MOUNTING%20FRAME%20GROUND%20BAR%20AND%20CHASSIS%20%28traced%29.json) (the CAD file: `1970 - M600 - 600-02-012 - INSULATED MOUNTING FRAME GROUND BAR AND CHASSIS (traced).dxf`).
 
 ## Full text
 

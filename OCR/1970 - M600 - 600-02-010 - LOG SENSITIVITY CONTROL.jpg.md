@@ -21,7 +21,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Words (OCR):** 17 in 16 lines: BN · 60- · RO · 5A2Z · AUDI0 · 150/600 · INpUT · GN · ShIELO · SET · GaIN · Cw
 - **Wiring (first pass):** 61 connected wire groups from 160 runs; labelled ends: 419 mm → 60-, RO, GN; 214 mm → R10i, Sk, LOG; 51 mm → 60-; 43 mm → BN, 60-; 20 mm → 60-
 
-Every curve, box, word and wire group: [1970 - M600 - 600-02-010 - LOG SENSITIVITY CONTROL (traced).json](../SCHEMATICS/1970%20-%20M600%20-%20600-02-010%20-%20LOG%20SENSITIVITY%20CONTROL%20(traced).json) (the CAD file: `1970 - M600 - 600-02-010 - LOG SENSITIVITY CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - 600-02-010 - LOG SENSITIVITY CONTROL (traced).json](../SCHEMATICS/1970%20-%20M600%20-%20600-02-010%20-%20LOG%20SENSITIVITY%20CONTROL%20%28traced%29.json) (the CAD file: `1970 - M600 - 600-02-010 - LOG SENSITIVITY CONTROL (traced).dxf`).
 
 ## Full text
 

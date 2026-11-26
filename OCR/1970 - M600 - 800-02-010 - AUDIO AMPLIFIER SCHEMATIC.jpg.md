@@ -22,7 +22,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (209, 40)–(337, 65) mm: WBS WARD-BECK BYSTEMB
 - **Wiring (first pass):** 50 connected wire groups from 125 runs; labelled ends: 358 mm → 70-], BR; 54 mm → 70-], RO; 52 mm → 70-]; 10 mm → OR
 
-Every curve, box, word and wire group: [1970 - M600 - 800-02-010 - AUDIO AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M600%20-%20800-02-010%20-%20AUDIO%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1970 - M600 - 800-02-010 - AUDIO AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M600 - 800-02-010 - AUDIO AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M600%20-%20800-02-010%20-%20AUDIO%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1970 - M600 - 800-02-010 - AUDIO AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

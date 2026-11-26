@@ -35,7 +35,7 @@ Wiki page: [M600](../../../../PAGES/M600.md)
 - **Title block:** (264, 37)–(432, 106) mm: (ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: JRG 02/87 · TALKBACK · ENG. Ea · CKD: · SCHEMATIC · APP · SCALE DISC NO: 130 · 600-02-008 · ISSUE · CODE: 600508
 - **Wiring (first pass):** 68 connected wire groups from 264 runs; labelled ends: 650 mm → TB2, 124,125, (126), 109,110; 336 mm → 154,155, 19; 87 mm → 600-02-008; 75 mm → (111), 112,113, 15S; 35 mm → MIC
 
-Every curve, box, word and wire group: [1987 - 600-02-008 - TALKBACK SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-008%20-%20TALKBACK%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20JRG%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 600-02-008 - TALKBACK SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 600-02-008 - TALKBACK SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).json](../SCHEMATICS/1987%20-%20600-02-008%20-%20TALKBACK%20SCHEMATIC%20-%20DRN%20JRG%20-%20ENG%20JRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 600-02-008 - TALKBACK SCHEMATIC - DRN JRG - ENG JRG - ISS 1 (traced).dxf`).
 
 ## Full text
 
