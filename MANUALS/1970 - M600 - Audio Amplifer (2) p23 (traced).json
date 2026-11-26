@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 12.5, 331.0, 388.8],
+ "outlines": {
+  "line": {"rings": 95, "straight": {"n": 1374, "mm": 2695.3}, "curved": {"n": 278, "mm": 458.2}},
+  "text": {"rings": 60, "straight": {"n": 434, "mm": 562.7}, "curved": {"n": 121, "mm": 193.0}},
+  "tb": {"rings": 22, "straight": {"n": 184, "mm": 266.6}, "curved": {"n": 46, "mm": 82.4}}
+ },
+ "circles": [
+  {"c": [252.6, 36.9], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [226.8, 16.4], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [40.2, 301.2, 92.2, 329.7], "w": 52.1, "h": 28.5, "from": "ring", "words": ["PS"]},
+  {"mm": [27.9, 318.0, 39.7, 323.2], "w": 11.9, "h": 5.2, "from": "ring"},
+  {"mm": [27.9, 304.9, 40.0, 310.8], "w": 12.1, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [32.8, 324.9, 39.1, 328.5], "text": "2,3"},
+   {"mm": [29.4, 312.4, 38.4, 315.8], "text": "10 .11"},
+   {"mm": [63.3, 310.2, 67.8, 313.6], "text": "PS"},
+   {"mm": [132.8, 312.8, 141.2, 316.2], "text": "115V"},
+   {"mm": [131.5, 308.3, 149.2, 311.9], "text": "50/ 60 Hz"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [206.6, 55.1, 324.3, 64.4], "text": "[vvasJ WARD-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [257.6, 40.6, 277.0, 45.9], "text": "M600"},
+   {"mm": [231.2, 32.6, 297.1, 38.1], "text": "AUDIO AMPLIFIER"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [196.7, 24.2, 330.1, 29.7], "text": "TYPICAL SYSTEM WIRING SCHEMATIC"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [214.2, 12.7, 259.9, 18.0], "text": "600 -02-012"},
+   {"mm": [310.0, 10.8, 324.9, 16.6], "text": "155.1"}
+  ]
+ },
+ "title_block": {"mm": [237.8, 47.8, 331.1, 69.4], "from": "title-block words (training set)", "text": ["ps", "[vvasJ WARD-BECK SYSTEMS", "BS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 12–389 mm up",
+  "- **Outlines:** line 95 rings, 1,374 straight (2,695 mm) / 278 curved (458 mm); text 60 rings, 434 straight (563 mm) / 121 curved (193 mm); tb 22 rings, 184 straight (267 mm) / 46 curved (82.4 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.4 @ (252.6, 36.9), r 2.2 @ (226.8, 16.4)",
+  "- **Closed boxes:** 3; named: PS",
+  "- **Words (OCR):** 25 in 15 lines: 2,3 · 10 .11 · PS · 115V · 50/ 60 Hz · ps · [vvasJ WARD-BECK SYSTEMS · BS · M600 · AUDIO AMPLIFIER · tp · TYPICAL SYSTEM WIRING SCHEMATIC",
+  "- **Title block:** (238, 48)–(331, 69) mm: ps · [vvasJ WARD-BECK SYSTEMS · BS"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 314.1, 420.6],
+ "outlines": {
+  "line": {"rings": 294, "straight": {"n": 2716, "mm": 5926.9}, "curved": {"n": 698, "mm": 1080.0}},
+  "text": {"rings": 71, "straight": {"n": 511, "mm": 632.4}, "curved": {"n": 162, "mm": 267.3}}
+ },
+ "circles": [{"c": [57.7, 198.9], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [76.4, 414.7, 130.8, 420.0], "text": "CK SYSTE MS"},
+   {"mm": [134.5, 414.5, 142.3, 420.0], "text": "LT"},
+   {"mm": [136.9, 369.4, 150.9, 374.4], "text": "M600"},
+   {"mm": [160.0, 369.4, 174.9, 374.4], "text": "UD IO"},
+   {"mm": [183.9, 369.4, 210.1, 374.4], "text": "MPLIF IE"},
+   {"mm": [134.1, 356.2, 198.8, 361.3], "text": "DC VOLT AGE CHART"},
+   {"mm": [211.8, 356.2, 218.5, 361.3], "text": "22"},
+   {"mm": [159.6, 181.6, 165.8, 187.3], "text": "25"},
+   {"mm": [200.4, 181.6, 214.0, 187.3], "text": "25.5"},
+   {"mm": [123.1, 141.0, 153.3, 146.0], "text": "Ampllffer"},
+   {"mm": [171.6, 141.0, 176.0, 146.0], "text": "lo"},
+   {"mm": [185.0, 141.0, 225.2, 146.0], "text": "50 dB ga in."},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [
+  {"c": [167.9, 304.8], "r": 0.7, "lines": 0},
+  {"c": [167.8, 291.5], "r": 0.7, "lines": 0},
+  {"c": [273.8, 278.0], "r": 0.7, "lines": 0},
+  {"c": [273.8, 264.6], "r": 0.7, "lines": 0},
+  {"c": [273.5, 210.7], "r": 0.7, "lines": 0},
+  {"c": [208.3, 210.7], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–421 mm up",
+  "- **Outlines:** line 294 rings, 2,716 straight (5,927 mm) / 698 curved (1,080 mm); text 71 rings, 511 straight (632 mm) / 162 curved (267 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (57.7, 198.9)",
+  "- **Dots (junctions):** 6",
+  "- **Words (OCR):** 26 in 16 lines: CK SYSTE MS · LT · M600 · UD IO · MPLIF IE · DC VOLT AGE CHART · 22 · 25 · 25.5 · Ampllffer · lo · 50 dB ga in."
+ ]
+}

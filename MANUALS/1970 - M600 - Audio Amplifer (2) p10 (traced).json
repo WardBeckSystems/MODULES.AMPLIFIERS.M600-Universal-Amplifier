@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 9.1, 313.5, 426.4],
+ "outlines": {
+  "line": {"rings": 269, "straight": {"n": 2581, "mm": 6555.7}, "curved": {"n": 502, "mm": 798.3}},
+  "text": {"rings": 220, "straight": {"n": 1442, "mm": 1755.3}, "curved": {"n": 369, "mm": 618.8}}
+ },
+ "circles": [
+  {"c": [262.6, 268.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [45.9, 336.1], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [262.9, 336.0], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [162.0, 241.3], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [162.4, 308.3], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 54,
+  "lines": [
+   {"mm": [25.9, 415.2, 140.3, 421.2], "text": "WARO BEC SYS TEMS LTD"},
+   {"mm": [128.2, 372.0, 159.3, 377.3], "text": "\"1600 AUD"},
+   {"mm": [171.2, 372.0, 206.2, 377.3], "text": "AMPLIFIER"},
+   {"mm": [108.8, 358.8, 125.0, 364.1], "text": "AMPL"},
+   {"mm": [136.9, 358.8, 237.9, 364.1], "text": "ER RECEPTA CLE CONNEC IONS"},
+   {"mm": [41.2, 331.0, 84.0, 336.3], "text": "SOURCE IM\"'"},
+   {"mm": [97.8, 331.0, 109.7, 336.3], "text": "CE'-''"},
+   {"mm": [44.9, 318.9, 70.4, 324.4], "text": "SO oh ms"},
+   {"mm": [158.9, 318.7, 207.5, 323.9], "text": "108, Sla 16"},
+   {"mm": [265.1, 318.7, 287.6, 323.9], "text": "and 16"},
+   {"mm": [41.0, 305.5, 70.6, 310.8], "text": "600 ohms"},
+   {"mm": [265.1, 305.1, 287.6, 310.3], "text": "and 16"},
+   {"mm": [44.7, 292.3, 97.8, 297.6], "text": "np UI Shie ld Gnd"},
+   {"mm": [40.6, 265.8, 51.8, 271.1], "text": "LOA"},
+   {"mm": [62.0, 265.8, 97.6, 271.1], "text": "IM EOANCE"},
+   {"mm": [41.5, 252.0, 70.2, 257.5], "text": "ISO ohms"},
+   {"mm": [158.7, 252.2, 164.5, 257.4], "text": "10"},
+   {"mm": [180.3, 252.2, 207.0, 257.4], "text": "11 to 12"},
+   {"mm": [40.6, 239.4, 50.3, 245.0], "text": "600"},
+   {"mm": [40.2, 225.0, 54.6, 230.2], "text": "Gain"},
+   {"mm": [65.6, 225.0, 76.4, 230.2], "text": "rap"},
+   {"mm": [40.6, 212.0, 66.1, 217.1], "text": "+48\\,1 DC"},
+   {"mm": [39.7, 204.2, 51.2, 209.8], "text": "0'0"},
+   {"mm": [257.4, 203.6, 264.5, 211.3], "text": "to"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [277.1, 227.7], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 9–426 mm up",
+  "- **Outlines:** line 269 rings, 2,581 straight (6,556 mm) / 502 curved (798 mm); text 220 rings, 1,442 straight (1,755 mm) / 369 curved (619 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.1 @ (262.6, 268.7), r 2.1 @ (45.9, 336.1), r 2.1 @ (262.9, 336.0), r 1.7 @ (162.0, 241.3)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 54 in 28 lines: WARO BEC SYS TEMS LTD · \"1600 AUD · AMPLIFIER · AMPL · ER RECEPTA CLE CONNEC IONS · SOURCE IM\"' · CE'-'' · SO oh ms · 108, Sla 16 · and 16 · 600 ohms · and 16"
+ ]
+}

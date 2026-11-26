@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.jpg",
+ "version": 1,
+ "trace": "_traces/f9317a125a69f259.svg",
+ "sheet": {
+  "number": "",
+  "title": "M600 Audio Amplifier P1 Connector Layout 150 ohm strapping",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.3, 425.3],
+ "outlines": {
+  "line": {"rings": 94, "straight": {"n": 2978, "mm": 6487.9}, "curved": {"n": 359, "mm": 607.7}},
+  "text": {"rings": 270, "straight": {"n": 2374, "mm": 2901.5}, "curved": {"n": 569, "mm": 916.6}},
+  "tb": {"rings": 26, "straight": {"n": 330, "mm": 486.9}, "curved": {"n": 57, "mm": 68.4}}
+ },
+ "circles": [
+  {"c": [162.2, 161.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [162.1, 172.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [161.9, 235.9], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [133.4, 192.8, 151.8, 228.2], "w": 18.4, "h": 35.4, "from": "ring"},
+  {"mm": [221.5, 204.9, 229.1, 215.7], "w": 7.6, "h": 10.8, "from": "ring"},
+  {"mm": [162.1, 93.1, 184.8, 100.4], "w": 22.7, "h": 7.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [32.4, 414.5, 129.3, 421.5], "text": "WARD-BECK SYSTems"},
+   {"mm": [177.5, 370.3, 214.6, 377.9], "text": "AMPL IFIER"},
+   {"mm": [134.9, 370.9, 174.7, 377.4], "text": "M6oo AUD/0"},
+   {"mm": [135.2, 358.2, 143.1, 363.5], "text": "P1"},
+   {"mm": [146.8, 357.3, 213.1, 363.8], "text": "CONNECTOR LAYOUT"},
+   {"mm": [140.3, 344.4, 208.8, 350.8], "text": "150 OHM STRAPP ING"},
+   {"mm": [154.8, 233.2, 164.5, 239.6], "text": "90"},
+   {"mm": [180.3, 232.7, 190.0, 239.7], "text": "10"},
+   {"mm": [87.4, 226.7, 101.9, 233.2], "text": "com"},
+   {"mm": [238.4, 226.7, 253.9, 233.2], "text": "+48V"},
+   {"mm": [179.6, 219.1, 190.4, 227.8], "text": "26"},
+   {"mm": [152.2, 219.8, 164.7, 226.3], "text": "100"},
+   {"mm": [179.6, 206.8, 189.3, 213.8], "text": "30"},
+   {"mm": [239.0, 211.2, 267.1, 217.6], "text": "150 OHM"},
+   {"mm": [156.1, 207.5, 164.1, 212.8], "text": "10"},
+   {"mm": [238.4, 204.0, 264.3, 211.0], "text": "output"},
+   {"mm": [154.8, 195.4, 164.9, 201.9], "text": "20"},
+   {"mm": [179.2, 195.4, 189.6, 202.3], "text": "40"},
+   {"mm": [152.2, 182.4, 165.2, 188.9], "text": "130"},
+   {"mm": [179.2, 182.4, 189.6, 188.9], "text": "50"},
+   {"mm": [246.6, 176.4, 279.4, 183.5], "text": "GAIN SET"},
+   {"mm": [154.8, 169.5, 164.9, 176.0], "text": "40"},
+   {"mm": [238.4, 170.1, 275.1, 177.1], "text": "(SEE NOTE"},
+   {"mm": [152.2, 158.0, 165.2, 164.5], "text": "150"},
+   {"mm": [146.8, 78.2, 174.7, 84.6], "text": "150 OHM"},
+   {"mm": [178.5, 77.7, 198.6, 84.7], "text": "INPUT"},
+   {"mm": [106.9, 69.5, 127.4, 77.2], "text": "NOTE:"},
+   {"mm": [106.9, 56.6, 171.0, 63.7], "text": "VARYING GAIN SET"},
+   {"mm": [174.2, 56.6, 227.1, 63.5], "text": "RESISTOR FROM"},
+   {"mm": [106.2, 50.1, 159.1, 56.6], "text": "4k7 To OHMS"},
+   {"mm": [161.5, 50.5, 210.5, 57.0], "text": "CHANGES GAIN"},
+   {"mm": [213.7, 49.7, 232.1, 56.1], "text": "FROM"},
+   {"mm": [106.2, 43.6, 138.0, 50.1], "text": "50 To 70"},
+   {"mm": [140.8, 43.2, 151.1, 50.1], "text": "dB _"},
+   {"mm": [165.2, 14.7, 180.3, 21.6], "text": "10-2"}
+  ]
+ },
+ "title_block": {
+  "mm": [25.6, 335.7, 215.5, 430.2],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTems", "AMPL IFIER", "M6oo AUD/0", "P1", "CONNECTOR LAYOUT", "150 OHM STRAPP ING"]
+ },
+ "dots": [{"c": [186.4, 210.0], "r": 1.6, "lines": 0}, {"c": [162.1, 198.4], "r": 1.6, "lines": 0}, {"c": [157.5, 147.7], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–425 mm up",
+  "- **Outlines:** line 94 rings, 2,978 straight (6,488 mm) / 359 curved (608 mm); text 270 rings, 2,374 straight (2,902 mm) / 569 curved (917 mm); tb 26 rings, 330 straight (487 mm) / 57 curved (68.4 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (162.2, 161.7), r 1.6 @ (162.1, 172.2), r 1.6 @ (161.9, 235.9)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 52 in 35 lines: WARD-BECK SYSTems · AMPL IFIER · M6oo AUD/0 · P1 · CONNECTOR LAYOUT · 150 OHM STRAPP ING · 90 · 10 · com · +48V · 26 · 100",
+  "- **Title block:** (26, 336)–(216, 430) mm: WARD-BECK SYSTems · AMPL IFIER · M6oo AUD/0 · P1 · CONNECTOR LAYOUT · 150 OHM STRAPP ING"
+ ]
+}

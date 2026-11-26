@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.3, 424.7],
+ "outlines": {
+  "line": {"rings": 38, "straight": {"n": 757, "mm": 3271.3}, "curved": {"n": 79, "mm": 112.9}},
+  "text": {"rings": 409, "straight": {"n": 2948, "mm": 3403.8}, "curved": {"n": 896, "mm": 1399.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 60,
+  "lines": [
+   {"mm": [30.2, 414.5, 146.8, 422.2], "text": "WAAD-BECK systems LTD_"},
+   {"mm": [133.9, 370.3, 209.6, 377.2], "text": "CiRcuIT DESCRIPTION"},
+   {"mm": [132.1, 357.3, 172.7, 363.8], "text": "Mgoo Audi0"},
+   {"mm": [175.3, 357.3, 212.4, 364.3], "text": "AMPLIFIER"},
+   {"mm": [44.7, 330.3, 108.4, 337.5], "text": "The M6oo output"},
+   {"mm": [115.7, 330.3, 161.9, 338.0], "text": "mpedance is"},
+   {"mm": [166.7, 330.3, 265.3, 337.8], "text": "pri marily that of the dc"},
+   {"mm": [270.5, 330.3, 298.8, 338.0], "text": "winding"},
+   {"mm": [162.4, 324.3, 173.6, 330.8], "text": "T2 ."},
+   {"mm": [45.3, 323.4, 116.4, 330.3], "text": "resistance of output"},
+   {"mm": [119.2, 323.9, 159.1, 330.3], "text": "transformer"},
+   {"mm": [45.3, 309.8, 87.9, 317.4], "text": "T2 primary"},
+   {"mm": [93.9, 310.0, 149.4, 317.4], "text": "offers optimum"},
+   {"mm": [154.8, 309.8, 216.5, 318.0], "text": "matching of the"},
+   {"mm": [221.7, 310.9, 250.4, 317.4], "text": "Ioad to"},
+   {"mm": [255.6, 310.9, 267.5, 317.4], "text": "the"},
+   {"mm": [272.9, 309.6, 298.8, 317.5], "text": "voltage"},
+   {"mm": [45.3, 303.3, 78.2, 310.3], "text": "delivered"},
+   {"mm": [83.1, 304.0, 147.0, 310.5], "text": "from the emiters"},
+   {"mm": [151.6, 303.3, 203.4, 310.5], "text": "of the output"},
+   {"mm": [207.3, 304.0, 234.7, 310.5], "text": "circuit."},
+   {"mm": [239.6, 302.7, 298.8, 310.9], "text": "C17 couples the"},
+   {"mm": [241.6, 296.4, 298.8, 304.8], "text": "from   flowing in"},
+   {"mm": [45.3, 296.9, 65.2, 303.3], "text": "audio"},
+   {"mm": [68.9, 295.6, 103.2, 303.7], "text": "signal to"},
+   {"mm": [107.3, 296.9, 134.3, 303.3], "text": "T2 and"},
+   {"mm": [137.3, 296.4, 185.0, 303.4], "text": "prevents any"},
+   {"mm": [188.3, 296.9, 238.6, 303.3], "text": "direct current"},
+   {"mm": [45.3, 289.3, 87.9, 296.7], "text": "T2 primary ."},
+   {"mm": [165.6, 14.7, 177.5, 21.2], "text": "3-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–425 mm up",
+  "- **Outlines:** line 38 rings, 757 straight (3,271 mm) / 79 curved (113 mm); text 409 rings, 2,948 straight (3,404 mm) / 896 curved (1,400 mm)",
+  "- **Words (OCR):** 60 in 30 lines: WAAD-BECK systems LTD_ · CiRcuIT DESCRIPTION · Mgoo Audi0 · AMPLIFIER · The M6oo output · mpedance is · pri marily that of the dc · winding · T2 . · resistance of output · transformer · T2 primary"
+ ]
+}

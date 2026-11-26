@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [16.0, 6.0, 338.5, 393.8],
+ "outlines": {
+  "line": {"rings": 125, "straight": {"n": 1979, "mm": 4163.8}, "curved": {"n": 260, "mm": 394.0}},
+  "text": {"rings": 78, "straight": {"n": 589, "mm": 558.2}, "curved": {"n": 209, "mm": 312.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [112.5, 260.4, 118.3, 264.7], "text": "60-"},
+   {"mm": [128.7, 258.2, 134.5, 262.1], "text": "RD"},
+   {"mm": [270.1, 229.1, 282.0, 233.4], "text": "5A12Z"},
+   {"mm": [243.1, 223.7, 306.4, 229.7], "text": "AUDI0 AMPLIFIER ASSEMBLY"},
+   {"mm": [15.3, 217.8, 31.5, 222.2], "text": "150/600"},
+   {"mm": [128.7, 206.4, 135.2, 209.8], "text": "GN"},
+   {"mm": [47.9, 184.6, 65.0, 189.9], "text": "SHIELD"},
+   {"mm": [41.9, 174.7, 64.6, 179.0], "text": "GAIN SET"},
+   {"mm": [235.5, 135.8, 242.5, 139.6], "text": "Cw"},
+   {"mm": [219.4, 128.2, 229.1, 132.6], "text": "R1OI"},
+   {"mm": [225.8, 120.0, 243.1, 124.8], "text": "Sk LoG"},
+   {"mm": [219.8, 115.7, 242.9, 120.0], "text": "SENSITIV |"},
+   {"mm": [224.3, 111.0, 244.6, 116.3], "text": "CONTROL"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 16–338 mm across, 6–394 mm up",
+  "- **Outlines:** line 125 rings, 1,979 straight (4,164 mm) / 260 curved (394 mm); text 78 rings, 589 straight (558 mm) / 209 curved (312 mm)",
+  "- **Words (OCR):** 17 in 13 lines: 60- · RD · 5A12Z · AUDI0 AMPLIFIER ASSEMBLY · 150/600 · GN · SHIELD · GAIN SET · Cw · R1OI · Sk LoG · SENSITIV |"
+ ]
+}

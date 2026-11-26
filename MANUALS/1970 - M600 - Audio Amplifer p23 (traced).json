@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 12.5, 331.0, 388.8],
+ "outlines": {
+  "line": {"rings": 30, "straight": {"n": 740, "mm": 1743.0}, "curved": {"n": 107, "mm": 161.7}},
+  "text": {"rings": 135, "straight": {"n": 1045, "mm": 1329.7}, "curved": {"n": 298, "mm": 484.3}},
+  "tb": {"rings": 3, "straight": {"n": 60, "mm": 154.9}, "curved": {"n": 4, "mm": 7.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [40.2, 301.2, 92.2, 329.7], "w": 52.1, "h": 28.5, "from": "ring", "words": ["ML68", "PST"]},
+  {"mm": [27.9, 318.0, 39.7, 323.2], "w": 11.9, "h": 5.2, "from": "ring"},
+  {"mm": [27.9, 304.9, 40.0, 310.8], "w": 12.1, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [60.7, 313.9, 71.5, 318.2], "text": "ML68"},
+   {"mm": [28.3, 311.8, 39.1, 316.1], "text": "10.11"},
+   {"mm": [62.4, 309.6, 70.0, 313.9], "text": "PST"},
+   {"mm": [130.4, 308.5, 142.3, 313.3], "text": "50/60"},
+   {"mm": [0.0, 108.8, 8.9, 112.7], "text": "ITED"},
+   {"mm": [2.4, 104.9, 9.9, 109.2], "text": "BAR"},
+   {"mm": [211.2, 56.1, 325.8, 65.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [258.0, 41.0, 278.9, 48.0], "text": "M600"},
+   {"mm": [231.4, 33.2, 298.8, 40.4], "text": "AUDIO AMPLIFIER"},
+   {"mm": [197.1, 24.2, 331.6, 33.5], "text": "TYPICAL SYSTEM WIRING SCHEMATIC"},
+   {"mm": [214.2, 13.0, 262.1, 19.9], "text": "600 - 02-012"},
+   {"mm": [309.6, 11.9, 323.6, 18.8], "text": "ISS."}
+  ]
+ },
+ "title_block": {"mm": [204.4, 47.5, 332.6, 73.9], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 12–389 mm up",
+  "- **Outlines:** line 30 rings, 740 straight (1,743 mm) / 107 curved (162 mm); text 135 rings, 1,045 straight (1,330 mm) / 298 curved (484 mm); tb 3 rings, 60 straight (155 mm) / 4 curved (7.6 mm)",
+  "- **Closed boxes:** 3; named: ML68 PST",
+  "- **Words (OCR):** 15 in 12 lines: ML68 · 10.11 · PST · 50/60 · ITED · BAR · WBS WARD-BECK SYSTEMS · M600 · AUDIO AMPLIFIER · TYPICAL SYSTEM WIRING SCHEMATIC · 600 - 02-012 · ISS.",
+  "- **Title block:** (204, 48)–(333, 74) mm: WBS WARD-BECK SYSTEMS"
+ ]
+}

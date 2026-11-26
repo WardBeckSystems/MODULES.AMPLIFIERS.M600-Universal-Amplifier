@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p22.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 33.7, 337.9, 430.5],
+ "outlines": {
+  "line": {"rings": 129, "straight": {"n": 2497, "mm": 5995.2}, "curved": {"n": 339, "mm": 510.3}},
+  "text": {"rings": 136, "straight": {"n": 960, "mm": 967.9}, "curved": {"n": 286, "mm": 409.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [115.1, 345.9, 118.5, 353.4], "w": 3.5, "h": 7.6, "from": "ring"},
+  {"mm": [229.1, 301.2, 281.3, 329.7], "w": 52.1, "h": 28.6, "from": "ring", "words": ["M468", "PST"]},
+  {"mm": [217.0, 318.0, 228.9, 323.3], "w": 11.9, "h": 5.2, "from": "ring"},
+  {"mm": [217.0, 304.9, 228.9, 310.7], "w": 11.9, "h": 5.8, "from": "ring"},
+  {"mm": [53.8, 143.6, 57.0, 155.7], "w": 3.2, "h": 12.1, "from": "ring"},
+  {"mm": [57.2, 143.1, 70.8, 155.7], "w": 13.6, "h": 12.5, "from": "ring"},
+  {"mm": [156.5, 103.8, 210.1, 114.6], "w": 53.5, "h": 10.8, "from": "ring", "words": ["INSULATED", "GROUND", "BAR"]}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [151.1, 346.3, 168.6, 351.6], "text": "output"},
+   {"mm": [11.7, 336.6, 24.6, 340.9], "text": "INPUT"},
+   {"mm": [146.4, 325.1, 156.5, 329.0], "text": "~LBV"},
+   {"mm": [249.6, 313.9, 260.4, 318.2], "text": "M468"},
+   {"mm": [251.1, 309.6, 258.6, 313.9], "text": "PST"},
+   {"mm": [318.0, 308.5, 329.9, 313.3], "text": "50/60"},
+   {"mm": [319.7, 312.8, 329.5, 316.7], "text": "TISV"},
+   {"mm": [10.6, 291.7, 23.5, 296.0], "text": "INPUT"},
+   {"mm": [10.6, 266.9, 23.5, 271.2], "text": "INPUT"},
+   {"mm": [10.8, 240.1, 24.0, 245.1], "text": "inPuT"},
+   {"mm": [10.6, 214.0, 23.5, 217.8], "text": "INPUT"},
+   {"mm": [10.8, 186.8, 24.0, 192.5], "text": "INPUT"},
+   {"mm": [10.6, 167.1, 23.5, 171.4], "text": "INPUT"},
+   {"mm": [124.8, 158.5, 142.1, 162.8], "text": "output"},
+   {"mm": [11.0, 146.6, 24.0, 150.9], "text": "INPUT"},
+   {"mm": [46.6, 105.6, 86.1, 110.3], "text": "MOUNTiNG FRAME"},
+   {"mm": [172.9, 108.8, 196.0, 113.1], "text": "INSULATED"},
+   {"mm": [51.6, 102.8, 60.2, 106.6], "text": "AND"},
+   {"mm": [62.4, 102.3, 80.1, 106.7], "text": "CHASSIS"},
+   {"mm": [169.7, 104.9, 197.8, 109.2], "text": "GROUND BAR"},
+   {"mm": [53.1, 98.5, 79.5, 102.8], "text": "To STATION"},
+   {"mm": [58.5, 90.9, 74.7, 95.2], "text": "GROUNO"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–338 mm across, 34–430 mm up",
+  "- **Outlines:** line 129 rings, 2,497 straight (5,995 mm) / 339 curved (510 mm); text 136 rings, 960 straight (968 mm) / 286 curved (409 mm)",
+  "- **Closed boxes:** 7; named: M468 PST; INSULATED GROUND BAR",
+  "- **Words (OCR):** 25 in 22 lines: output · INPUT · ~LBV · M468 · PST · 50/60 · TISV · INPUT · INPUT · inPuT · INPUT · INPUT"
+ ]
+}

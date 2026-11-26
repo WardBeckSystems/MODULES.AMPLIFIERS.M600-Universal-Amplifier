@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p25.svg",
+ "sheet": {
+  "number": "B 600-04-010",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.6, 327.5, 414.1],
+ "outlines": {
+  "line": {"rings": 110, "straight": {"n": 1238, "mm": 2631.2}, "curved": {"n": 244, "mm": 392.4}},
+  "text": {"rings": 59, "straight": {"n": 414, "mm": 565.0}, "curved": {"n": 99, "mm": 174.5}},
+  "tb": {"rings": 12, "straight": {"n": 122, "mm": 144.1}, "curved": {"n": 25, "mm": 40.7}}
+ },
+ "circles": [{"c": [293.6, 25.1], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [208.8, 51.8, 326.0, 60.7], "text": "['Was] WARO-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [258.4, 37.8, 277.6, 43.1], "text": "M600"},
+   {"mm": [233.0, 29.1, 298.6, 34.7], "text": "AUDIO AMPLIFIER"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [225.8, 21.2, 304.4, 26.7], "text": "PERSPECTIVE LAYOUT"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [217.8, 9.5, 269.4, 14.8], "text": "600-04-010"},
+   {"mm": [311.5, 9.5, 321.3, 14.8], "text": "155"}
+  ]
+ },
+ "title_block": {"mm": [239.1, 44.3, 332.7, 65.8], "from": "title-block words (training set)", "text": ["ps", "['Was] WARO-BECK SYSTEMS", "BS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout B 600-04-010, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 11–414 mm up",
+  "- **Outlines:** line 110 rings, 1,238 straight (2,631 mm) / 244 curved (392 mm); text 59 rings, 414 straight (565 mm) / 99 curved (174 mm); tb 12 rings, 122 straight (144 mm) / 25 curved (40.7 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (293.6, 25.1)",
+  "- **Words (OCR):** 14 in 10 lines: ps · ['Was] WARO-BECK SYSTEMS · BS · M600 · AUDIO AMPLIFIER · tp · PERSPECTIVE LAYOUT · ht · 600-04-010 · 155",
+  "- **Title block:** (239, 44)–(333, 66) mm: ps · ['Was] WARO-BECK SYSTEMS · BS"
+ ]
+}

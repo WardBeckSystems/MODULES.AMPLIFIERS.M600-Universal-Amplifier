@@ -1,0 +1,32 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [22.2, 34.3, 266.9, 414.7],
+ "outlines": {"line": {"rings": 176, "straight": {"n": 3130, "mm": 7627.8}, "curved": {"n": 588, "mm": 790.2}}},
+ "circles": [],
+ "boxes": [],
+ "text": {"words": 1, "lines": [{"mm": [209.6, 169.9, 224.8, 179.7], "text": "74600"}]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 22–267 mm across, 34–415 mm up",
+  "- **Outlines:** line 176 rings, 3,130 straight (7,628 mm) / 588 curved (790 mm)",
+  "- **Words (OCR):** 1 in 1 lines: 74600"
+ ]
+}

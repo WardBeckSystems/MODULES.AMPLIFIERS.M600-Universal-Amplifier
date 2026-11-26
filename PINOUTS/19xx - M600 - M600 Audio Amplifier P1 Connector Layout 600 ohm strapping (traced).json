@@ -1,0 +1,88 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.jpg",
+ "version": 1,
+ "trace": "_traces/3b778cb0602377f9.svg",
+ "sheet": {
+  "number": "",
+  "title": "M600 Audio Amplifier P1 Connector Layout 600 ohm strapping",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.6, 3.7, 307.4, 426.2],
+ "outlines": {
+  "line": {"rings": 84, "straight": {"n": 2654, "mm": 5895.3}, "curved": {"n": 298, "mm": 507.4}},
+  "text": {"rings": 297, "straight": {"n": 2517, "mm": 3045.7}, "curved": {"n": 647, "mm": 1063.1}},
+  "tb": {"rings": 4, "straight": {"n": 106, "mm": 304.8}, "curved": {"n": 11, "mm": 18.7}}
+ },
+ "circles": [{"c": [179.2, 149.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [135.2, 217.4, 145.2, 228.9], "w": 10.1, "h": 11.5, "from": "ring"},
+  {"mm": [122.0, 205.6, 145.1, 216.8], "w": 23.1, "h": 11.2, "from": "ring"},
+  {"mm": [114.0, 205.6, 121.3, 216.8], "w": 7.3, "h": 11.1, "from": "ring"},
+  {"mm": [190.9, 174.2, 200.4, 179.4], "w": 9.5, "h": 5.2, "from": "ring"},
+  {"mm": [154.6, 93.9, 178.3, 101.5], "w": 23.7, "h": 7.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 56,
+  "lines": [
+   {"mm": [27.0, 414.5, 142.9, 422.2], "text": "WARD-BECK SysteMs LTD"},
+   {"mm": [172.1, 370.5, 208.8, 378.4], "text": "AMPLIFIER"},
+   {"mm": [128.9, 370.9, 168.8, 377.4], "text": "M6oo AUDI0"},
+   {"mm": [129.8, 358.2, 137.3, 363.5], "text": "P1"},
+   {"mm": [140.6, 357.3, 207.7, 364.5], "text": "CONNECTOR LAYOUT"},
+   {"mm": [134.9, 344.4, 202.9, 350.8], "text": "600 OHM STRAPP ING"},
+   {"mm": [81.8, 240.9, 109.2, 247.4], "text": "CHAsSIS"},
+   {"mm": [86.4, 234.3, 99.7, 240.7], "text": "GND"},
+   {"mm": [173.2, 233.2, 182.9, 240.1], "text": "10"},
+   {"mm": [148.1, 234.0, 156.7, 239.3], "text": "90"},
+   {"mm": [65.8, 226.7, 80.5, 233.2], "text": "com"},
+   {"mm": [148.3, 220.6, 158.0, 227.1], "text": "00"},
+   {"mm": [172.7, 220.6, 183.5, 227.6], "text": "20"},
+   {"mm": [220.6, 220.6, 236.8, 227.1], "text": "+48V"},
+   {"mm": [145.7, 208.3, 157.6, 215.3], "text": "110"},
+   {"mm": [172.1, 207.3, 182.2, 215.4], "text": "30"},
+   {"mm": [77.7, 206.2, 106.7, 212.7], "text": "600 OHM"},
+   {"mm": [78.2, 199.7, 103.4, 206.2], "text": "output"},
+   {"mm": [148.1, 193.0, 158.9, 202.9], "text": "2Q"},
+   {"mm": [171.9, 193.0, 183.1, 203.3], "text": "49"},
+   {"mm": [145.1, 183.5, 157.4, 190.5], "text": "130"},
+   {"mm": [171.4, 183.1, 182.9, 192.0], "text": "50"},
+   {"mm": [229.3, 179.6, 245.9, 186.1], "text": "GAIN"},
+   {"mm": [248.7, 179.6, 261.7, 186.6], "text": "SET"},
+   {"mm": [221.3, 172.7, 257.4, 179.7], "text": "(SEE NOTE"},
+   {"mm": [148.3, 170.6, 157.4, 177.0], "text": "40"},
+   {"mm": [148.3, 159.3, 158.0, 166.3], "text": "50"},
+   {"mm": [172.7, 159.3, 181.8, 166.3], "text": "70"},
+   {"mm": [172.3, 147.0, 180.9, 152.3], "text": "80"},
+   {"mm": [141.4, 78.8, 193.9, 85.3], "text": "600 OHM INPUT"},
+   {"mm": [101.5, 66.5, 122.0, 73.0], "text": "NOTE:"},
+   {"mm": [101.3, 52.7, 221.7, 60.4], "text": "VARYING GAIN SET RESISTOR FROM"},
+   {"mm": [101.5, 45.8, 226.5, 52.9], "text": "4k7 To OHMS CHANGES GAIN FROM"},
+   {"mm": [101.5, 39.3, 145.7, 45.8], "text": "50 To 70 dB _"},
+   {"mm": [161.1, 19.2, 174.4, 24.5], "text": "10-1"}
+  ]
+ },
+ "title_block": {
+  "mm": [20.2, 335.7, 209.6, 430.7],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SysteMs LTD", "AMPLIFIER", "M6oo AUDI0", "P1", "CONNECTOR LAYOUT", "600 OHM STRAPP ING"]
+ },
+ "dots": [{"c": [179.5, 199.0], "r": 1.6, "lines": 0}, {"c": [154.8, 199.0], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–307 mm across, 4–426 mm up",
+  "- **Outlines:** line 84 rings, 2,654 straight (5,895 mm) / 298 curved (507 mm); text 297 rings, 2,517 straight (3,046 mm) / 647 curved (1,063 mm); tb 4 rings, 106 straight (305 mm) / 11 curved (18.7 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (179.2, 149.5)",
+  "- **Closed boxes:** 5",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 56 in 35 lines: WARD-BECK SysteMs LTD · AMPLIFIER · M6oo AUDI0 · P1 · CONNECTOR LAYOUT · 600 OHM STRAPP ING · CHAsSIS · GND · 10 · 90 · com · 00",
+  "- **Title block:** (20, 336)–(210, 431) mm: WARD-BECK SysteMs LTD · AMPLIFIER · M6oo AUDI0 · P1 · CONNECTOR LAYOUT · 600 OHM STRAPP ING"
+ ]
+}

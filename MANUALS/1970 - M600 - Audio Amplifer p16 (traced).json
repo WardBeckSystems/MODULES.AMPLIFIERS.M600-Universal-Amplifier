@@ -1,0 +1,97 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.3, 425.5],
+ "outlines": {
+  "line": {"rings": 89, "straight": {"n": 2082, "mm": 6390.6}, "curved": {"n": 262, "mm": 460.2}},
+  "text": {"rings": 276, "straight": {"n": 2293, "mm": 2962.1}, "curved": {"n": 560, "mm": 933.5}},
+  "tb": {"rings": 12, "straight": {"n": 172, "mm": 298.9}, "curved": {"n": 31, "mm": 42.5}}
+ },
+ "circles": [{"c": [162.0, 172.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [133.4, 192.8, 151.8, 228.2], "w": 18.4, "h": 35.4, "from": "ring"},
+  {"mm": [221.5, 205.1, 229.1, 215.7], "w": 7.6, "h": 10.6, "from": "ring"},
+  {"mm": [162.1, 93.1, 184.6, 100.4], "w": 22.5, "h": 7.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [32.4, 414.5, 148.3, 421.5], "text": "WAAD-BECK SYSTEMS LTO"},
+   {"mm": [134.9, 370.3, 214.6, 377.4], "text": "M6oo AUDI0 AMPL IFIER"},
+   {"mm": [135.2, 358.2, 143.1, 363.5], "text": "P1"},
+   {"mm": [146.8, 357.3, 213.1, 364.3], "text": "CONNECTOR LAYoUT"},
+   {"mm": [141.4, 344.4, 169.3, 350.8], "text": "150 OHM"},
+   {"mm": [171.2, 344.4, 208.8, 351.1], "text": "STRAPP ING"},
+   {"mm": [154.8, 233.2, 164.5, 239.6], "text": "90"},
+   {"mm": [180.3, 232.7, 190.0, 239.7], "text": "10"},
+   {"mm": [87.4, 226.7, 101.9, 233.2], "text": "com"},
+   {"mm": [239.0, 226.7, 254.5, 233.2], "text": "+48V"},
+   {"mm": [179.4, 218.9, 190.6, 228.5], "text": "26"},
+   {"mm": [152.2, 219.8, 165.2, 226.3], "text": "100"},
+   {"mm": [180.3, 207.3, 189.3, 213.7], "text": "30"},
+   {"mm": [239.0, 211.2, 267.5, 217.6], "text": "150 OHM"},
+   {"mm": [156.7, 207.5, 164.3, 212.3], "text": "10"},
+   {"mm": [238.4, 204.0, 264.3, 211.0], "text": "outPut"},
+   {"mm": [155.4, 195.4, 165.2, 201.9], "text": "20"},
+   {"mm": [178.5, 195.0, 190.2, 203.1], "text": "40"},
+   {"mm": [154.8, 182.4, 164.9, 188.9], "text": "30"},
+   {"mm": [179.2, 182.4, 189.6, 188.9], "text": "50"},
+   {"mm": [246.6, 177.0, 279.4, 183.5], "text": "GAIN SET"},
+   {"mm": [155.0, 169.7, 164.1, 175.0], "text": "40"},
+   {"mm": [239.0, 170.1, 275.7, 177.1], "text": "(SEE NOTE"},
+   {"mm": [152.2, 158.0, 165.2, 165.0], "text": "150"},
+   {"mm": [146.8, 78.2, 174.4, 84.6], "text": "150 OHM"},
+   {"mm": [178.5, 77.7, 198.6, 84.7], "text": "INPUT"},
+   {"mm": [106.9, 70.2, 127.4, 77.1], "text": "NOTE :"},
+   {"mm": [106.9, 56.6, 171.2, 63.5], "text": "VARYING GAIN SET"},
+   {"mm": [174.0, 56.6, 227.6, 63.5], "text": "RESISTOR FROM"},
+   {"mm": [106.9, 50.1, 159.1, 56.6], "text": "4K7 To OHMS"},
+   {"mm": [161.9, 49.7, 232.1, 56.6], "text": "CHANGES GAIN FROM"},
+   {"mm": [106.9, 43.6, 114.9, 50.1], "text": "50"},
+   {"mm": [116.8, 42.7, 151.1, 50.9], "text": "To dB _"},
+   {"mm": [130.4, 44.0, 138.0, 49.3], "text": "70"},
+   {"mm": [165.2, 14.7, 180.3, 21.2], "text": "10-2"}
+  ]
+ },
+ "title_block": {
+  "mm": [25.6, 335.7, 215.5, 430.2],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTO", "M6oo AUDI0 AMPL IFIER", "P1", "CONNECTOR LAYoUT", "150 OHM", "STRAPP ING"]
+ },
+ "dots": [
+  {"c": [161.9, 222.8], "r": 1.6, "lines": 0},
+  {"c": [186.9, 222.8], "r": 1.5, "lines": 0},
+  {"c": [186.4, 210.0], "r": 1.6, "lines": 0},
+  {"c": [162.0, 198.4], "r": 1.6, "lines": 0},
+  {"c": [186.6, 198.2], "r": 1.5, "lines": 0},
+  {"c": [185.3, 161.4], "r": 1.5, "lines": 0},
+  {"c": [185.9, 147.8], "r": 1.6, "lines": 0},
+  {"c": [157.4, 147.6], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–426 mm up",
+  "- **Outlines:** line 89 rings, 2,082 straight (6,391 mm) / 262 curved (460 mm); text 276 rings, 2,293 straight (2,962 mm) / 560 curved (934 mm); tb 12 rings, 172 straight (299 mm) / 31 curved (42.5 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (162.0, 172.2)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 8",
+  "- **Words (OCR):** 52 in 35 lines: WAAD-BECK SYSTEMS LTO · M6oo AUDI0 AMPL IFIER · P1 · CONNECTOR LAYoUT · 150 OHM · STRAPP ING · 90 · 10 · com · +48V · 26 · 100",
+  "- **Title block:** (26, 336)–(216, 430) mm: WAAD-BECK SYSTEMS LTO · M6oo AUDI0 AMPL IFIER · P1 · CONNECTOR LAYoUT · 150 OHM · STRAPP ING"
+ ]
+}

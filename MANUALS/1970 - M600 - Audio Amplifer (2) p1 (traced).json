@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 20.7, 313.5, 425.3],
+ "outlines": {
+  "line": {"rings": 53, "straight": {"n": 1122, "mm": 3463.9}, "curved": {"n": 181, "mm": 280.6}},
+  "text": {"rings": 151, "straight": {"n": 1185, "mm": 1589.7}, "curved": {"n": 242, "mm": 398.4}},
+  "tb": {"rings": 66, "straight": {"n": 564, "mm": 760.6}, "curved": {"n": 140, "mm": 231.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [121.8, 406.1, 232.3, 413.5], "text": "WARD -BECK YST"},
+   {"mm": [265.3, 406.1, 285.6, 413.5], "text": "LTD"},
+   {"mm": [45.3, 395.1, 161.9, 411.9], "text": "['Nas] \"\"\"CIGRI!1!I8"},
+   {"mm": [165.2, 399.0, 258.0, 405.0], "text": "\"VI!\"'lJI!.~ CNTAI'lQ"},
+   {"mm": [261.2, 398.6, 285.4, 406.9], "text": "\"\"'\"'il><\""},
+   {"mm": [121.6, 394.4, 133.9, 399.2], "text": "TI!i LI!"},
+   {"mm": [210.3, 394.9, 241.8, 399.0], "text": "T'EU!.....c:NII!"},
+   {"mm": [257.4, 394.4, 267.7, 399.2], "text": "\"\"3e"},
+   {"mm": [161.1, 242.2, 176.6, 249.7], "text": "M60"},
+   {"mm": [133.4, 228.9, 209.4, 236.3], "text": "AUDI AMP LIFIER"},
+   {"mm": [270.7, 65.6, 302.5, 75.6], "text": "ISSUE ps"},
+   {"mm": [238.4, 69.3, 242.7, 73.9], "text": "bl"},
+   {"mm": [259.3, 69.3, 265.3, 73.9], "text": "A1"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [242.7, 55.9, 265.1, 61.4], "text": "Du mbt"},
+   {"mm": [282.2, 55.9, 294.3, 61.4], "text": "1'J87"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [115.1, 60.0, 296.7, 422.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD -BECK YST",
+   "LTD",
+   "\"VI!\"'lJI!.~ CNTAI'lQ",
+   "\"\"'\"'il><\"",
+   "TI!i LI!",
+   "T'EU!.....c:NII!",
+   "\"\"3e",
+   "M60",
+   "AUDI AMP LIFIER",
+   "ISSUE ps",
+   "bl",
+   "A1",
+   "BS"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–314 mm across, 21–425 mm up",
+  "- **Outlines:** line 53 rings, 1,122 straight (3,464 mm) / 181 curved (281 mm); text 151 rings, 1,185 straight (1,590 mm) / 242 curved (398 mm); tb 66 rings, 564 straight (761 mm) / 140 curved (231 mm)",
+  "- **Words (OCR):** 27 in 18 lines: WARD -BECK YST · LTD · ['Nas] \"\"\"CIGRI!1!I8 · \"VI!\"'lJI!.~ CNTAI'lQ · \"\"'\"'il><\" · TI!i LI! · T'EU!.....c:NII! · \"\"3e · M60 · AUDI AMP LIFIER · ISSUE ps · bl",
+  "- **Title block:** (115, 60)–(297, 422) mm: WARD -BECK YST · LTD · \"VI!\"'lJI!.~ CNTAI'lQ · \"\"'\"'il><\" · TI!i LI! · T'EU!.....c:NII! · \"\"3e · M60 · AUDI AMP LIFIER · ISSUE ps · bl · A1 · BS"
+ ]
+}

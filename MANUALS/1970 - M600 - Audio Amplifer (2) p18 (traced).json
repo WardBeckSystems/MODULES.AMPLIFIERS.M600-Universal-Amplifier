@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [16.0, 6.0, 338.5, 393.8],
+ "outlines": {
+  "line": {"rings": 166, "straight": {"n": 2391, "mm": 4702.0}, "curved": {"n": 416, "mm": 649.6}},
+  "text": {"rings": 58, "straight": {"n": 365, "mm": 408.6}, "curved": {"n": 104, "mm": 162.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [114.9, 267.7, 120.5, 272.3], "text": "T1"},
+   {"mm": [67.6, 245.3, 162.1, 267.8], "text": "';TJOO~ J2"},
+   {"mm": [68.0, 229.1, 71.9, 232.7], "text": "15"},
+   {"mm": [99.7, 228.4, 104.7, 231.8], "text": "'It."},
+   {"mm": [259.5, 224.5, 305.1, 233.9], "text": "A.frI4PL~\\~ SSEMBLy"},
+   {"mm": [243.3, 226.5, 252.6, 229.6], "text": "AUDI"},
+   {"mm": [19.0, 220.6, 26.8, 223.8], "text": "NPU"},
+   {"mm": [17.7, 216.1, 30.7, 220.2], "text": "~/600"},
+   {"mm": [68.2, 194.1, 125.9, 210.4], "text": ",q~I-----\"'8L-vt~"},
+   {"mm": [129.1, 205.1, 140.1, 211.3], "text": "GN:!...."},
+   {"mm": [59.4, 183.1, 64.6, 187.6], "text": "LO"},
+   {"mm": [43.0, 174.0, 53.3, 177.1], "text": "G....IN"},
+   {"mm": [56.6, 173.8, 61.1, 177.2], "text": "SE"},
+   {"mm": [68.4, 173.6, 72.1, 176.7], "text": "14"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 16–338 mm across, 6–394 mm up",
+  "- **Outlines:** line 166 rings, 2,391 straight (4,702 mm) / 416 curved (650 mm); text 58 rings, 365 straight (409 mm) / 104 curved (162 mm)",
+  "- **Words (OCR):** 20 in 18 lines: T1 · ';TJOO~ J2 · 15 · 'It. · A.frI4PL~\\~ SSEMBLy · AUDI · NPU · ~/600 · ,q~I-----\"'8L-vt~ · GN:!.... · LO · G....IN"
+ ]
+}

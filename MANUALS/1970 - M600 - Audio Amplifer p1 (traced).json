@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 20.7, 310.8, 425.3],
+ "outlines": {
+  "line": {"rings": 22, "straight": {"n": 607, "mm": 2605.6}, "curved": {"n": 70, "mm": 113.7}},
+  "text": {"rings": 157, "straight": {"n": 1628, "mm": 2269.6}, "curved": {"n": 423, "mm": 684.7}},
+  "tb": {"rings": 10, "straight": {"n": 147, "mm": 384.7}, "curved": {"n": 15, "mm": 23.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [122.6, 405.7, 261.9, 415.3], "text": "WAAD-BECK SYSTEMS"},
+   {"mm": [52.2, 396.8, 286.3, 410.7], "text": "WBS 841 PAOGAESS AVENUE SCAABOAOUGH, ONTARIO M1h2xa"},
+   {"mm": [121.1, 395.3, 139.5, 400.1], "text": "Telex"},
+   {"mm": [142.1, 394.9, 174.4, 400.2], "text": "065-25399"},
+   {"mm": [209.6, 394.2, 286.1, 401.4], "text": "TELEPHONE; 416/438-6550"},
+   {"mm": [160.2, 242.9, 183.3, 251.5], "text": "M6oo"},
+   {"mm": [132.3, 228.9, 210.5, 238.4], "text": "AUDIO AMPLIFIER"},
+   {"mm": [236.8, 68.7, 298.4, 76.1], "text": "MANUAL ISSUE #6"},
+   {"mm": [240.7, 55.7, 294.1, 62.2], "text": "December 17. 1987"}
+  ]
+ },
+ "title_block": {
+  "mm": [45.6, 59.9, 305.1, 424.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SYSTEMS",
+   "WBS 841 PAOGAESS AVENUE SCAABOAOUGH, ONTARIO M1h2xa",
+   "Telex",
+   "065-25399",
+   "TELEPHONE; 416/438-6550",
+   "M6oo",
+   "AUDIO AMPLIFIER",
+   "MANUAL ISSUE #6"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–311 mm across, 21–425 mm up",
+  "- **Outlines:** line 22 rings, 607 straight (2,606 mm) / 70 curved (114 mm); text 157 rings, 1,628 straight (2,270 mm) / 423 curved (685 mm); tb 10 rings, 147 straight (385 mm) / 15 curved (23.1 mm)",
+  "- **Words (OCR):** 13 in 9 lines: WAAD-BECK SYSTEMS · WBS 841 PAOGAESS AVENUE SCAABOAOUGH, ONTARIO M1h2xa · Telex · 065-25399 · TELEPHONE; 416/438-6550 · M6oo · AUDIO AMPLIFIER · MANUAL ISSUE #6 · December 17. 1987",
+  "- **Title block:** (46, 60)–(305, 424) mm: WAAD-BECK SYSTEMS · WBS 841 PAOGAESS AVENUE SCAABOAOUGH, ONTARIO M1h2xa · Telex · 065-25399 · TELEPHONE; 416/438-6550 · M6oo · AUDIO AMPLIFIER · MANUAL ISSUE #6"
+ ]
+}

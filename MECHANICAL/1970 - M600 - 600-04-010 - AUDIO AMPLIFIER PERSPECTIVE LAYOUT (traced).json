@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MECHANICAL/1970 - M600 - 600-04-010 - AUDIO AMPLIFIER PERSPECTIVE LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/c9cbe6d07540cb27.svg",
+ "sheet": {
+  "number": "600-04-010",
+  "title": "Audio Amplifier Perspective Layout",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 10.6, 327.5, 413.9],
+ "outlines": {
+  "line": {"rings": 58, "straight": {"n": 761, "mm": 1786.6}, "curved": {"n": 153, "mm": 261.9}},
+  "text": {"rings": 108, "straight": {"n": 832, "mm": 1105.2}, "curved": {"n": 213, "mm": 341.5}},
+  "tb": {"rings": 2, "straight": {"n": 53, "mm": 155.7}, "curved": {"n": 1, "mm": 2.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [26.3, 168.8, 41.5, 179.6], "text": "7600"},
+   {"mm": [213.7, 52.2, 239.6, 59.2], "text": "WBS"},
+   {"mm": [245.9, 52.9, 326.4, 60.1], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [258.4, 38.4, 279.6, 45.4], "text": "M600"},
+   {"mm": [233.0, 29.8, 299.9, 36.8], "text": "AUDiO AMPLIFIER"},
+   {"mm": [225.4, 21.4, 305.7, 29.5], "text": "PERSPECTIVE LAYOUT"},
+   {"mm": [217.4, 9.7, 270.7, 16.7], "text": "6 0 0-04-0 10"},
+   {"mm": [310.7, 10.4, 328.4, 17.3], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [206.9, 43.7, 333.4, 68.8], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 600-04-010, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 11–414 mm up",
+  "- **Outlines:** line 58 rings, 761 straight (1,787 mm) / 153 curved (262 mm); text 108 rings, 832 straight (1,105 mm) / 213 curved (342 mm); tb 2 rings, 53 straight (156 mm) / 1 curved (2.1 mm)",
+  "- **Words (OCR):** 9 in 8 lines: 7600 · WBS · WARD-BECK SYSTEMS · M600 · AUDiO AMPLIFIER · PERSPECTIVE LAYOUT · 6 0 0-04-0 10 · ISS.1",
+  "- **Title block:** (207, 44)–(333, 69) mm: WBS · WARD-BECK SYSTEMS"
+ ]
+}

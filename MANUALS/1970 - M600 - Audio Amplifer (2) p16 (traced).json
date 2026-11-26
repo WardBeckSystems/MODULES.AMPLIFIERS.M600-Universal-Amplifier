@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.3, 425.5],
+ "outlines": {
+  "line": {"rings": 127, "straight": {"n": 2541, "mm": 6909.1}, "curved": {"n": 352, "mm": 614.6}},
+  "text": {"rings": 324, "straight": {"n": 2308, "mm": 3022.4}, "curved": {"n": 516, "mm": 845.7}}
+ },
+ "circles": [
+  {"c": [186.6, 236.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [186.1, 185.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [94.2, 229.8], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [162.0, 185.6], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [162.0, 172.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [133.4, 192.8, 151.8, 228.2], "w": 18.4, "h": 35.4, "from": "ring"},
+  {"mm": [221.5, 205.1, 229.1, 215.7], "w": 7.6, "h": 10.6, "from": "ring"},
+  {"mm": [162.1, 93.1, 184.6, 100.4], "w": 22.5, "h": 7.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 59,
+  "lines": [
+   {"mm": [32.4, 414.5, 140.1, 419.8], "text": "WARD BE CK SYSTE MS LT"},
+   {"mm": [135.6, 370.7, 173.4, 375.7], "text": "M600 UD IO"},
+   {"mm": [182.4, 370.7, 194.1, 375.7], "text": "MPL"},
+   {"mm": [206.4, 370.7, 214.4, 375.7], "text": "ER"},
+   {"mm": [136.0, 357.5, 184.4, 362.6], "text": "PI CONNE CT OR"},
+   {"mm": [196.9, 357.5, 212.4, 362.6], "text": "YOUT"},
+   {"mm": [141.8, 344.4, 207.3, 349.4], "text": "150 OHM STRA PP ING"},
+   {"mm": [88.3, 226.0, 100.8, 231.1], "text": "COM"},
+   {"mm": [239.6, 226.7, 249.4, 231.7], "text": "+48"},
+   {"mm": [148.8, 226.0, 162.4, 230.8], "text": "jf-,"},
+   {"mm": [240.1, 211.2, 266.4, 216.2], "text": "150 OHM"},
+   {"mm": [239.6, 204.2, 263.4, 209.3], "text": "OUT PUT"},
+   {"mm": [247.6, 176.8, 274.0, 181.9], "text": "GAIN SE"},
+   {"mm": [246.1, 170.3, 269.9, 175.4], "text": "EE NOT"},
+   {"mm": [152.6, 144.0, 158.7, 149.0], "text": "16"},
+   {"mm": [147.7, 78.2, 193.4, 83.2], "text": "150 OHM NPU"},
+   {"mm": [107.7, 70.6, 122.8, 75.6], "text": "NOTE"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [107.7, 57.0, 147.2, 62.0], "text": "VAR YIN GA"},
+   {"mm": [159.3, 57.0, 225.8, 62.0], "text": "SE RES ISTOR FROM"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [107.5, 50.1, 130.2, 55.1], "text": "4K7 TO"},
+   {"mm": [142.3, 50.1, 202.7, 55.1], "text": "OHM CHA NGES GA"},
+   {"mm": [214.8, 50.1, 231.4, 55.1], "text": "FROM"},
+   {"mm": [107.5, 43.4, 113.6, 48.4], "text": "50"},
+   {"mm": [130.8, 43.4, 149.2, 48.4], "text": "70 dB"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [166.2, 14.7, 174.4, 19.7], "text": "10-"}
+  ]
+ },
+ "dots": [
+  {"c": [161.9, 222.8], "r": 1.6, "lines": 0},
+  {"c": [186.9, 222.8], "r": 1.5, "lines": 0},
+  {"c": [186.4, 210.0], "r": 1.6, "lines": 0},
+  {"c": [162.0, 198.4], "r": 1.6, "lines": 0},
+  {"c": [186.6, 198.2], "r": 1.5, "lines": 0},
+  {"c": [185.3, 161.4], "r": 1.5, "lines": 0},
+  {"c": [185.9, 147.8], "r": 1.6, "lines": 0},
+  {"c": [157.4, 147.6], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–426 mm up",
+  "- **Outlines:** line 127 rings, 2,541 straight (6,909 mm) / 352 curved (615 mm); text 324 rings, 2,308 straight (3,022 mm) / 516 curved (846 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.3 @ (186.6, 236.0), r 2.3 @ (186.1, 185.5), r 2.1 @ (94.2, 229.8), r 2.0 @ (162.0, 185.6)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 8",
+  "- **Words (OCR):** 59 in 29 lines: WARD BE CK SYSTE MS LT · M600 UD IO · MPL · ER · PI CONNE CT OR · YOUT · 150 OHM STRA PP ING · COM · +48 · jf-, · 150 OHM · OUT PUT"
+ ]
+}

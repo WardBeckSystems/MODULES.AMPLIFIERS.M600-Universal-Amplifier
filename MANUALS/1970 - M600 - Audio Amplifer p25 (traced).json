@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer.pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/1d0e1d1593f26b58-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.6, 327.5, 414.1],
+ "outlines": {
+  "line": {"rings": 61, "straight": {"n": 709, "mm": 1804.3}, "curved": {"n": 128, "mm": 192.1}},
+  "text": {"rings": 107, "straight": {"n": 851, "mm": 1083.3}, "curved": {"n": 216, "mm": 354.8}},
+  "tb": {"rings": 2, "straight": {"n": 56, "mm": 157.5}, "curved": {"n": 0, "mm": 0.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [25.7, 168.8, 42.1, 180.3], "text": "74600"},
+   {"mm": [213.7, 52.2, 239.6, 59.2], "text": "WBS"},
+   {"mm": [245.9, 52.9, 326.9, 59.9], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [258.4, 38.4, 279.6, 44.9], "text": "M600"},
+   {"mm": [233.0, 29.1, 299.9, 36.8], "text": "AUdio AMPLIFIER"},
+   {"mm": [225.4, 21.6, 305.7, 28.5], "text": "PERSPECTIVE LAYOUT"},
+   {"mm": [217.4, 9.1, 271.4, 16.7], "text": "6 0 0-04-0 10"},
+   {"mm": [310.7, 10.4, 329.0, 17.3], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [206.9, 43.7, 333.7, 68.6], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 11–414 mm up",
+  "- **Outlines:** line 61 rings, 709 straight (1,804 mm) / 128 curved (192 mm); text 107 rings, 851 straight (1,083 mm) / 216 curved (355 mm); tb 2 rings, 56 straight (158 mm) / 0 curved (0.0 mm)",
+  "- **Words (OCR):** 9 in 8 lines: 74600 · WBS · WARD-BECK SYSTEMS · M600 · AUdio AMPLIFIER · PERSPECTIVE LAYOUT · 6 0 0-04-0 10 · ISS.1",
+  "- **Title block:** (207, 44)–(334, 69) mm: WBS · WARD-BECK SYSTEMS"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MECHANICAL/1970 - M600 - 600-04-010.jpg",
+ "version": 1,
+ "trace": "_traces/5892c4ea744f6fca.svg",
+ "sheet": {
+  "number": "600-04-010",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [22.5, 40.2, 267.0, 414.5],
+ "outlines": {"line": {"rings": 174, "straight": {"n": 3408, "mm": 7741.2}, "curved": {"n": 676, "mm": 885.0}}},
+ "circles": [],
+ "boxes": [],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 600-04-010, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 22–267 mm across, 40–414 mm up",
+  "- **Outlines:** line 174 rings, 3,408 straight (7,741 mm) / 676 curved (885 mm)"
+ ]
+}

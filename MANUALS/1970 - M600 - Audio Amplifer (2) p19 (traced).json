@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/b2f45cca3c830d5e-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.4, 331.5, 405.9],
+ "outlines": {
+  "line": {"rings": 77, "straight": {"n": 1366, "mm": 2904.1}, "curved": {"n": 230, "mm": 382.6}},
+  "text": {"rings": 143, "straight": {"n": 1345, "mm": 1957.8}, "curved": {"n": 356, "mm": 562.3}},
+  "tb": {"rings": 9, "straight": {"n": 99, "mm": 177.9}, "curved": {"n": 39, "mm": 63.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [99.1, 284.3, 102.6, 287.9], "text": "J2"},
+   {"mm": [99.5, 278.9, 103.8, 284.0], "text": "is"},
+   {"mm": [213.3, 274.8, 222.4, 278.2], "text": "+48V"},
+   {"mm": [145.9, 216.5, 227.6, 263.3], "text": "cr OUTPUT"},
+   {"mm": [139.9, 256.7, 144.2, 260.3], "text": "T2"},
+   {"mm": [99.5, 251.7, 103.4, 255.1], "text": "14"},
+   {"mm": [126.3, 250.7, 131.3, 254.0], "text": "8R"},
+   {"mm": [138.4, 253.5, 144.0, 256.6], "text": "7D-"},
+   {"mm": [0.2, 228.4, 6.0, 232.0], "text": "122"},
+   {"mm": [2.8, 224.1, 25.9, 227.5], "text": "ER ASSEMBL"},
+   {"mm": [213.1, 220.0, 228.0, 223.6], "text": "150 /600"},
+   {"mm": [140.1, 193.0, 203.2, 219.6], "text": "IL 11"},
+   {"mm": [126.1, 198.6, 131.3, 202.0], "text": "OR"},
+   {"mm": [99.7, 172.7, 103.8, 176.1], "text": "IJ"},
+   {"mm": [212.0, 169.0, 220.2, 172.4], "text": "COM"},
+   {"mm": [171.4, 111.0, 228.9, 141.7], "text": "Jr CHASSIS"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [216.3, 49.9, 294.1, 59.0], "text": "was WARD- BECK"},
+   {"mm": [275.7, 48.1, 325.1, 59.7], "text": "BS SYSTEM"},
+   {"mm": [262.1, 35.0, 281.3, 40.5], "text": "M600"},
+   {"mm": [236.2, 25.9, 302.5, 32.5], "text": "AUDIO AMPLIF IER"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 17.9, 289.3, 25.3], "text": "ht ATIC"},
+   {"mm": [249.6, 18.4, 273.5, 24.1], "text": "SCHEM"},
+   {"mm": [220.2, 5.6, 267.3, 11.8], "text": "600-02 -010"},
+   {"mm": [314.6, 5.4, 328.0, 10.9], "text": "155."}
+  ]
+ },
+ "title_block": {"mm": [242.7, 41.5, 300.9, 63.6], "from": "title-block words (training set)", "text": ["was WARD- BECK", "BS SYSTEM"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 5–406 mm up",
+  "- **Outlines:** line 77 rings, 1,366 straight (2,904 mm) / 230 curved (383 mm); text 143 rings, 1,345 straight (1,958 mm) / 356 curved (562 mm); tb 9 rings, 99 straight (178 mm) / 39 curved (63.9 mm)",
+  "- **Words (OCR):** 38 in 26 lines: J2 · is · +48V · cr OUTPUT · T2 · 14 · 8R · 7D- · 122 · ER ASSEMBL · 150 /600 · IL 11",
+  "- **Title block:** (243, 42)–(301, 64) mm: was WARD- BECK · BS SYSTEM"
+ ]
+}

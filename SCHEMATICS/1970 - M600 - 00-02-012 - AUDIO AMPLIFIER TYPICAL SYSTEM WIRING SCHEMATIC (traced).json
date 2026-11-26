@@ -1,0 +1,85 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M600/SCHEMATICS/1970 - M600 - 00-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC.jpg",
+ "version": 1,
+ "trace": "_traces/5acaedf5d3c1e01b.svg",
+ "sheet": {
+  "number": "00-02-012",
+  "title": "Audio Amplifier Typical System Wiring Schematic",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 12.5, 331.0, 341.3],
+ "outlines": {
+  "line": {"rings": 23, "straight": {"n": 683, "mm": 1684.2}, "curved": {"n": 96, "mm": 136.3}},
+  "text": {"rings": 146, "straight": {"n": 1152, "mm": 1419.0}, "curved": {"n": 332, "mm": 525.2}},
+  "tb": {"rings": 3, "straight": {"n": 68, "mm": 156.0}, "curved": {"n": 5, "mm": 6.4}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 196, "straight": {"n": 236, "mm": 883.1}, "curved": {"n": 0, "mm": 0.0}},
+   "text": {"paths": 825, "straight": {"n": 1139, "mm": 962.1}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 1, "straight": {"n": 15, "mm": 78.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 19,
+  "orientation": {"horizontal": {"n": 320, "mm": 564.5}, "vertical": {"n": 354, "mm": 717.6}, "diagonal": {"n": 716, "mm": 641.8}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [40.3, 301.0, 92.4, 329.5], "w": 52.1, "h": 28.5, "from": "ring", "words": ["M468", "PST"]},
+  {"mm": [27.9, 317.8, 39.7, 323.0], "w": 11.9, "h": 5.2, "from": "ring"},
+  {"mm": [27.7, 304.6, 39.9, 310.7], "w": 12.2, "h": 6.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [32.0, 324.5, 38.6, 328.1], "text": "2,3"},
+   {"mm": [60.5, 313.9, 71.2, 318.7], "text": "M468"},
+   {"mm": [27.4, 311.5, 34.5, 316.3], "text": "10."},
+   {"mm": [61.7, 309.6, 69.7, 314.4], "text": "PST"},
+   {"mm": [130.2, 308.3, 149.2, 313.1], "text": "50/60 Hz"},
+   {"mm": [131.3, 312.4, 148.8, 316.9], "text": "M1SV AC"},
+   {"mm": [0.0, 108.8, 8.9, 113.6], "text": "ITED"},
+   {"mm": [2.2, 105.4, 9.7, 109.4], "text": "BAR"},
+   {"mm": [212.0, 56.6, 325.8, 64.0], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [258.0, 41.5, 278.7, 47.9], "text": "M600"},
+   {"mm": [232.1, 32.4, 299.0, 40.4], "text": "AUDIO AMPLIFIER"},
+   {"mm": [197.3, 24.2, 332.3, 32.7], "text": "TYPICAL SYSTEM WIRING SCHEMATIC"},
+   {"mm": [214.2, 13.2, 261.9, 19.6], "text": "6 00-02-012"},
+   {"mm": [310.0, 11.4, 327.1, 18.6], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [205.3, 47.9, 332.6, 72.6], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "nets": {
+  "groups": 6,
+  "wire_runs": 48,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 529.7, "runs": 26, "ends": 9, "bbox": [5.8, 103.8, 39.9, 329.7], "labels": ["2,3", "10.", "ITED", "BAR"]},
+   {"mm": 85.3, "runs": 7, "ends": 4, "bbox": [92.4, 301.2, 121.8, 329.0], "labels": []},
+   {"mm": 51.6, "runs": 1, "ends": 2, "bbox": [40.4, 329.5, 92.0, 330.1], "labels": ["2,3"]},
+   {"mm": 50.7, "runs": 1, "ends": 2, "bbox": [40.4, 300.7, 91.1, 301.6], "labels": []},
+   {"mm": 20.7, "runs": 2, "ends": 2, "bbox": [0.2, 103.4, 21.4, 103.8], "labels": ["ITED", "BAR"]},
+   {"mm": 12.7, "runs": 2, "ends": 2, "bbox": [0.2, 316.3, 13.4, 316.3], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 00-02-012, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 12–341 mm up",
+  "- **Outlines:** line 23 rings, 683 straight (1,684 mm) / 96 curved (136 mm); text 146 rings, 1,152 straight (1,419 mm) / 332 curved (525 mm); tb 3 rings, 68 straight (156 mm) / 5 curved (6.4 mm)",
+  "- **Centre lines:** 1,022 paths (19 closed); straight 1,924 mm, curved 0.0 mm; horizontal 564 mm, vertical 718 mm, diagonal 642 mm",
+  "- **Closed boxes:** 3; named: M468 PST",
+  "- **Words (OCR):** 20 in 14 lines: 2,3 · M468 · 10. · PST · 50/60 Hz · M1SV AC · ITED · BAR · WBS WARD-BECK SYSTEMS · M600 · AUDIO AMPLIFIER · TYPICAL SYSTEM WIRING SCHEMATIC",
+  "- **Title block:** (205, 48)–(333, 73) mm: WBS WARD-BECK SYSTEMS",
+  "- **Wiring (first pass):** 6 connected wire groups from 48 runs; labelled ends: 530 mm → 2,3, 10., ITED, BAR; 52 mm → 2,3; 21 mm → ITED, BAR"
+ ]
+}
