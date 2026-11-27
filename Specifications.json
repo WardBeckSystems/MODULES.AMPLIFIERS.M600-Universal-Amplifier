@@ -1,0 +1,196 @@
+{
+ "module": "M600",
+ "title": "m600 AUDI0 AMPLIFIER",
+ "source": {
+  "file": "MANUALS/1970 - M600 - P003 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.97,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Transducer gain",
+   "key": "transducer_gain",
+   "text": "50-70 dB, +/ -0.5 dB",
+   "quantities": [
+    {
+     "from": 50,
+     "to": 70,
+     "unit": "dB"
+    },
+    {
+     "value": -0.5,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/ -0.25 dB from Hz greater than dB 20 kHz kHz",
+   "quantities": [
+    {
+     "value": -0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Equivalent input noise",
+   "key": "equivalent_input_noise",
+   "text": "-126 dBm (10 Hz ~128 dBm (10 Hz 100 kHz bandwidth) kHz bandwidth)",
+   "quantities": [
+    {
+     "value": -126,
+     "unit": "dBm"
+    },
+    {
+     "value": 10,
+     "unit": "Hz"
+    },
+    {
+     "value": 128,
+     "unit": "dBm"
+    },
+    {
+     "value": 10,
+     "unit": "Hz"
+    },
+    {
+     "value": 100,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 0.257 from Hz 20 kHz. Less than 0.59 from 20 Hz 20 kHz (Measured +30 dBm output level",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "150/600 ohms balanced unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Greater than 10X source impedance"
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "dBm norniinal -20 dBm max",
+   "quantities": [
+    {
+     "value": -20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "150/600 ohms balanced unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 1/5 Load impedance"
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+30 dBm watt) max",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The low terminal number the input pair and the low terminal number the output pair are phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "volts dc, regulated from M648 equivalent 100 MA watt output level",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "60 degrees Celsius",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "wide mm 3.4\" high mm 336 Mi) deep",
+   "quantities": [
+    {
+     "value": 3.4,
+     "unit": "\""
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "Ibs (1.4 kg) net",
+   "quantities": [
+    {
+     "value": 1.4,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}

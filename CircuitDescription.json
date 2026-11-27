@@ -1,0 +1,96 @@
+{
+ "module": "M600",
+ "source": {
+  "file": "MANUALS/1970 - M600 - Audio Amplifer (2).pdf",
+  "pages": [
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ]
+ },
+ "ocr_quality": 0.73,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The \"1600 OUtput Impe'dance i s prima.. il y thai oft he de.....indlng ~sls l.. nce of out p Ul 1.... ns 'on'>er 72.",
+    "T 2 p ri \"\",r y o ff\" r sop timum ma 1chlng oft h e load 10 t h\" \\/o l tage de ll\\/e r\"d from the eml ter. oft h e ou~pu t circuit. Cl7 coup ' '''' the audio sig na ' 10 7 2 and prevents any d irec l current ' !\"Om flo....i n gin 7 2 primary.",
+    "Itl STALLATI Ofj"
+   ]
+  },
+  {
+   "heading": "1.16 00 AUO to AMPLIFIER",
+   "paragraphs": [
+    "The M600 plugs d i r «: lf y InlO I h~ MF 6 m,,\\,mt!n9 frllR>e which \"\"'I' b\" inS l a l led I n \" \" la\" da.. d ' 9 Inch equlp~nl.... c k wl lh I h., hllrdw,,~ supplied with the rack. The MF6 is furnished w i lh.. lull gu id\" c:omp tlrne\". In order 10 accept 1I maximum of leo,,\\600 amp li 'i.... \" or any combination o f \"i ng 'e or multiple width modules nOI exceeding 10 single width modules. II l he mO\"''' ling 'ra rne has been procured w i lh less receptacles, these mus l be installed in Ih e lIPPl\"'OPrl\" u: mod u '\" p o \"l lions.",
+    "Where y e r tlc a l racks pliCe p e,.,,,il sand Ih.. u lli mlll eIn noise lind cros stalk IS demanded, II Is,-\" (.o\" \"\" \".. d,, d 10 \" I loca '\" only nood u 'e! o f I h e \".. met yp e 10 ell c h l ndl \\l lduo l MF6 rack Ira \"'... Alter nat el y If 1I powers u p ply Is.... q u l.... d to power twos ing le hlod u l.. M6 00 ll\"'p l Hie rs, the powers u p ply should b e ' n Sl n l led tot her ' g hl o f Ih e fr a n'e (n orm \", I p r act ice vie....ed from r \" e l< front) and me /!I\",p l lf ier sIns t8 11\"d to I h e e \" treme left. When \",1 \"l n9 an,pl ifer types In one fr llme, e x er-ct see ><l r e,\" e Care 10 sep e rote cab les o nd a d l'e re 10 proper",
+    "1g rounding conven llon s.",
+    "For optimum resu ll S, use In tiul /!lte d, shIelded I wist e d pairs for both ' n put and ou tp u l wiring. Cables operating with level differences e><ceedl ng 2 S de should b e I\" e eds ep\" ra l e l y and dressed IIpllr l fro< n each o lher and from power wiring.",
+    "Jumper term in,,1 9 (ch\", s l ls ground I o f lilt \"mp ll fle r s orl II Co<••\"on f..ame together and ecooec t n ' 18 A\\'IG wire from each fr e me o f \" mp llfl e r s 10 the sys tetn ground bus. Hal<e a...epa..e te connection from terminal 10 (c oorrnon l o f each amplifier 10 Ih e Iy s tetn ground bus. Th i $ will prevent cur..\"\"t coupling, noise and cr-ossreue.",
+    "Jump e.. l ermi n a l 2 (-tvl o f \" II \",,,,p lllie.. son e CO<'nl'-' f\"\"me together.. nd connect \" ' 18 AWG wire lro<n e\"ch Ir \" me o f.. mp lllier\" tot he -t48 vo t t de powers u p ply term ln.. l.",
+    "Ind lvi d u,, 1 sys lems require ground tech n i ques pecu lia\" to each sys lem. P ref\" r \" blythe \"on e point \" ground system \"hou ld be cmn toyed 10 eli \", l n ale ground loops. All Inputs hie lding should he Corl nce ted Individually tot erm i n \" l 6 (Inpu t ground) only; the Input $hie ld",
+    "ground i s internally c onnec led tot h e point of lowe l t pO len tla t and",
+    "carried through vial \" r min.. 1 10 tot h e sys letn ground.",
+    "The 1>1600 15 designed fo.. depend \" b l e, l rouble - I..e e se.. v 1ce; how eve.., as w!lh nil high Qu\" ll lye lec t..on lc e q u l p \",,,n t, 0 \"\"gu l;:... s che d u leo fIns p e<:l lon should beeS I\" b li shed. Any IIcculll u l \" tl ono f d us l should be pe.. iodica lly.. ~ov \"d.....l lh a sof l b\"u s h linda v a CUUln hos \".",
+    "The ee uve cin:u l l\" y may b\"..\"\",oved fo.. Inspec llon by unplug gin g the SA 122 cin:uH boa.. d. Don ot Inse.. t 0.r-emove the companen l boa..d.....l lh the u nil \" n...-gl zed. ~f aull Is suspe<:led, measu.. lng the de: voltage p..\"sen l all he t..ansi store tee r-eeee may a'nl5 t 10 d\"I\"..... lne lhe cause. When compad ng the I1'Ieasu..e\"\"e nI5 listed I,.. Ihe vol lage c b e.. t cOl'lside.. a lion should b e gi\"ero 10 I h e ' act t h \" l, for dl.-e<: 1 coupled sec llons, ara u ll In one cln;u ll rna... Cause ab n ormlll i condil ions in e u-e.. cin:ul l,, \"ells.....i lh i n I h\" s.allle sec l lon.",
+    "If 11 Is n ec es s a..... 10 l n te..c h ange 1I c o mp onen l 10 d e le..,n in e Ih e cause o f a I IlUl t, fi..s l.. \"move Ihe sol de.. f\"olll Ih e p dn led c r..c u l t l oil fillets e esec t etee with Ih \" suspected del r.c l; v\" component. to cia I hl s, use \" 11ghl sold \".. l n g Iron (2 5 wo ll S) i nco \", o, n o l lon with on in e><p..,n $ lv \" vacuum ac lion type h \" n d d\"so lde ring 100 1.",
+    "Place Ih e sol de.. lng iron and Ih e deso l derl ng 1001 on the solder conn ec lion 10 b e eeec tee-ee, When Ih e solder mel ls thoroughly, press Ihe plunger release Ir l g g...-. Apply Ih e soldering Iron on l he connecl ~ ion u n lit Ih e \"acuum s l..o ke has been comple led. If N1Y of I h e lead conn ec l lon s Slick 10 l hep rl n led etee cn boe rd, fr~ I t.c.m.....i lh ascribe ora similar sharp l... poin led inS lrumen l. Careful I... remove I h e CO\"\"ponen l which, jf proV M 10 be sal is fac lo....., rna... be used again fo.o l her app l ic a l lons.",
+    "Toto e rent t-e new component, Shape Ih e leads 10 Ih eco r..e CIs pacing. I n se \" l Ii'll! p a rI and fold the leads under Ih e pr ln led circuit board to fir\", l... hold lI' eco \",p one n l. Clip off t h \" c >lce ss wire I\" \" v ln gob o,, ! 1/ 6 Inch. Sol d\"r tne new leads, using r~ s l nco r e solder and clean 11'1 \" board.....I thai n ert fluids uch a s pe rc hlort! l h e '...n\".",
+    "The loc \" lIon o f C<><noonerots 15 sho.....n Indra.....i ng 0 122 _06_00 1."
+   ]
+  },
+  {
+   "heading": "DC VOLT AGE CHART M I 22",
+   "paragraphs": [
+    "25 25.5",
+    "Ampllffer.... t lo r 50 dB gain."
+   ]
+  },
+  {
+   "heading": "\"1600 AUDIO AMPLIFIER",
+   "paragraphs": [
+    "P I AMPLIFIER RECEPTACLE CONNECTIONS"
+   ]
+  },
+  {
+   "heading": "SOURCE IM\"'",
+   "paragraphs": [
+    "ISO ohms 1 108, I Sla 16 8 and 16",
+    "600 ohms e and 16",
+    "I np UI Shield Gnd."
+   ]
+  },
+  {
+   "heading": "LOA O IMP EOANCE:",
+   "paragraphs": [
+    "ISO ohms) 10 4, 11 to 12",
+    "600,>0.,,, GainS trap",
+    "+48\\,1 DC z 0'0 to"
+   ]
+  },
+  {
+   "heading": "104600 AUDIO AMPLIFIER",
+   "paragraphs": [
+    "GAIN \\I/s GAIN SET RESISTANCE",
+    "E 'A RESISTANCE VALUES FOR SPECIFIC GAIN"
+   ]
+  },
+  {
+   "heading": "58 I. ~ K",
+   "paragraphs": [
+    "60 910"
+   ]
+  },
+  {
+   "heading": "62 S60",
+   "paragraphs": [
+    "64 360 66 200",
+    "68 100",
+    "70 0"
+   ]
+  }
+ ]
+}
