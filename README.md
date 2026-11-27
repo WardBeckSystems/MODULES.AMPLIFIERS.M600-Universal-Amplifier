@@ -153,6 +153,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Shared privately on Google Drive (opens after sign-in): [19xx - M600 - DOC - wbsps - module - mf6 mounting frame - front](https://drive.google.com/file/d/0B0yR0b5T78SKUFZLNEYyM21fTEk/view?resourcekey=0-PSphRmetzXxs0xCNu1BjOw)
 
+## 3-D model
+
+[`MECHANICAL/M600.stl`](MECHANICAL/M600.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M600)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M600 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M600.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
