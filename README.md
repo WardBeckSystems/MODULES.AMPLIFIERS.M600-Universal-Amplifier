@@ -180,25 +180,30 @@ Not on Google Drive yet: `19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING S
 
 ## RTO-144 pinout
 
-22 contacts (P1), 21 contacts (P2). Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 5 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- polarity assumed: 2 contacts given + / − that the drawing does not mark (e.g. P1-16 INPUT -) (M600: 1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.jpg)
+- polarity assumed: 2 contacts given + / − that the drawing does not mark (e.g. P1-16 INPUT -) (M600: 19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.jpg)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 |  | unread |  | low |
-| 1 |  | unread |  | low |
-| 3 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 7 |  | unread |  | low |
-| 10 |  | unread |  | low |
-| 11 |  | unread |  | low |
-| 13 |  | unread |  | low |
-| 15 |  | unread |  | low |
-| 16 |  | unread |  | low |
-| 17 |  | unread |  | low |
-| 19 |  | unread |  | low |
-| 21 | +25V | power |  | low |
-| 22 |  | unread |  | low |
+| 2 | +48 V | power |  | high |
+| 3 | OUTPUT A | out | OUTPUT | high |
+| 4 | OUTPUT STRAP | strap |  | high |
+| 6 | GAIN SET / INPUT SHIELD | strap | INPUT shield | high |
+| 7 | INPUT STRAP | strap |  | high |
+| 8 | INPUT A | in | INPUT | high |
+| 9 | CHASSIS GROUND | ground |  | high |
+| 10 | 48 V B- / COMMON | ground |  | high |
+| 11 | OUTPUT B | out | OUTPUT | high |
+| 12 | OUTPUT STRAP | strap |  | high |
+| 14 | GAIN SET | strap |  | high |
+| 15 | INPUT STRAP | strap |  | high |
+| 16 | INPUT B | in | INPUT | high |
+
+**Straps:** 600 OHM OUTPUT: P1-4 P1-12 · 600 OHM INPUT: P1-7 P1-15 · 150 OHM OUTPUT: P1-3 P1-4 · 150 OHM INPUT: P1-7 P1-8 · GAIN: P1-6 P1-14 · 7-15: P1-7 P1-15 · 6-14 3K9: P1-6 P1-14 · 4-12: P1-4 P1-12 · GAIN SET: P1-14 P1-6
 
 ## Manuals and documents
 

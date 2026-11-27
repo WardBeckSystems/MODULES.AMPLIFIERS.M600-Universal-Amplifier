@@ -1,0 +1,226 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.jpg",
+  "module": "M600",
+  "applies_to": [
+    "M600"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "M600 AUDIO AMPLIFIER P1 CONNECTOR LAYOUT 150 OHM STRAPPING",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 16,
+      "rows": "1-8 opposite 9-16",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "CHASSIS GND (chassis ground symbol)",
+      "signal": "CHASSIS GROUND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "+48V",
+      "signal": "+48 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "GAIN SET (SEE NOTE 1); input cable shield wired here",
+      "signal": "GAIN SET / INPUT SHIELD",
+      "kind": "strap",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "GAIN SET resistor to 6",
+      "signal": "GAIN SET",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "150 OHM OUTPUT (tied to 12)",
+      "signal": "OUTPUT A",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "tied to 11",
+      "signal": "OUTPUT A",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "150 OHM OUTPUT (tied to 4)",
+      "signal": "OUTPUT B",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "tied to 3",
+      "signal": "OUTPUT B",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "150 OHM INPUT (tied to 16)",
+      "signal": "INPUT A",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "150 OHM INPUT (tied to 15)",
+      "signal": "INPUT A",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "150 OHM INPUT (tied to 8)",
+      "signal": "INPUT B",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "150 OHM INPUT (tied to 7)",
+      "signal": "INPUT B",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-15",
+        "-": "P1-7",
+        "shield": "P1-6"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-11",
+        "-": "P1-3"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "150 OHM OUTPUT",
+      "pins": [
+        "P1-11",
+        "P1-12"
+      ],
+      "note": "tied"
+    },
+    {
+      "name": "150 OHM OUTPUT",
+      "pins": [
+        "P1-3",
+        "P1-4"
+      ],
+      "note": "tied"
+    },
+    {
+      "name": "150 OHM INPUT",
+      "pins": [
+        "P1-15",
+        "P1-16"
+      ],
+      "note": "tied"
+    },
+    {
+      "name": "150 OHM INPUT",
+      "pins": [
+        "P1-7",
+        "P1-8"
+      ],
+      "note": "tied"
+    },
+    {
+      "name": "GAIN SET",
+      "pins": [
+        "P1-14",
+        "P1-6"
+      ],
+      "note": "NOTE: VARYING GAIN SET RESISTOR FROM 4K7 TO 0 OHMS CHANGES GAIN FROM 50 TO 70 dB."
+    }
+  ],
+  "unread": [
+    "Pins 1, 5, 13 drawn with no connection",
+    "No polarity marks on input or output legs"
+  ],
+  "confidence": "medium",
+  "notes": "Manual page 10-2. 16-contact connector drawn as two columns (9-16 left, 1-8 right). 150 ohm strapping parallels the windings: 11+12 and 3+4 form the two output legs, 15+16 and 7+8 the two input legs. Output cable shield goes to COM (pin 10 line); input cable shield is wired to pin 6 as drawn. Polarity (+/-) assigned arbitrarily by leg order; drawing shows none."
+}

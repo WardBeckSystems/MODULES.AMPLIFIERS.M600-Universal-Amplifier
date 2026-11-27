@@ -1,184 +1,391 @@
 {
  "code": "M600",
  "connector": "RTO-144",
- "type": "Universal Amplifier",
+ "type": null,
  "series": null,
- "contacts": "22 contacts (P1), 21 contacts (P2)",
- "verified": null,
- "derived": true,
- "variant_of": null,
- "pins": [
+ "connectors": [
   {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/19xx - 600-02-100 - M625B D TEST JIG SCHEMATIC (T625B) - DRN T. RICHARDSON - ENG T. RICHARDSON - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "10",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "11",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "15",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "17",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-   "page": 1
+   "name": "P1",
+   "kind": "edge",
+   "contacts": null,
+   "rows": "numbered (3-16 shown)",
+   "view": null,
+   "part": null
   }
  ],
- "straps": [],
- "power": [],
- "sources": [
-  "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-  "Modules/AMPLIFIERS/M600/SCHEMATICS/1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png",
-  "Modules/AMPLIFIERS/M600/SCHEMATICS/19xx - 600-02-100 - M625B D TEST JIG SCHEMATIC (T625B) - DRN T. RICHARDSON - ENG T. RICHARDSON - ISS 1.png"
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+   "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+   "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+   "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+   "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+  ],
+  "sheet": null,
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "+48 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT A",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET / INPUT SHIELD",
+   "kind": "strap",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "48 V B- / COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT B",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M600/PINOUTS/1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.pinout.json",
+    "M600/PINOUTS/1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.pinout.json",
+    "M600/PINOUTS/19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.pinout.json",
+    "M600/PINOUTS/19xx - M600 - M600 Audio Amplifier P1 Connector Layout 600 ohm strapping.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "+": "P1-8",
+    "-": "P1-16",
+    "shield": "P1-6"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-3",
+    "-": "P1-11"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "600 OHM OUTPUT",
+   "pins": [
+    "P1-4",
+    "P1-12"
+   ],
+   "note": "600 ohm wiring"
+  },
+  {
+   "name": "600 OHM INPUT",
+   "pins": [
+    "P1-7",
+    "P1-15"
+   ],
+   "note": "600 ohm wiring"
+  },
+  {
+   "name": "150 OHM OUTPUT",
+   "pins": [
+    "P1-3",
+    "P1-4"
+   ],
+   "note": "150 ohm wiring, also 11-12"
+  },
+  {
+   "name": "150 OHM INPUT",
+   "pins": [
+    "P1-7",
+    "P1-8"
+   ],
+   "note": "150 ohm wiring, also 15-16"
+  },
+  {
+   "name": "GAIN",
+   "pins": [
+    "P1-6",
+    "P1-14"
+   ],
+   "note": "VARYING RESISTANCE FROM ∞ (4.7k) TO 0Ω CHANGES GAIN FROM 50dB TO 70dB. Application drawings show 1k (54dB, 3+ outputs) and 3k9 (1-2 outputs)"
+  },
+  {
+   "name": "7-15",
+   "pins": [
+    "P1-7",
+    "P1-15"
+   ],
+   "note": "wire link"
+  },
+  {
+   "name": "6-14 3K9",
+   "pins": [
+    "P1-6",
+    "P1-14"
+   ],
+   "note": "3K9 resistor; -12dB IN HAND SETTING (48dB gain)"
+  },
+  {
+   "name": "4-12",
+   "pins": [
+    "P1-4",
+    "P1-12"
+   ],
+   "note": "wire link; 600 ohm output strapping"
+  },
+  {
+   "name": "GAIN SET",
+   "pins": [
+    "P1-14",
+    "P1-6"
+   ],
+   "note": "NOTE: VARYING GAIN SET RESISTOR FROM 4K7 TO 0 OHMS CHANGES GAIN FROM 50 TO 70 dB."
+  }
+ ],
+ "conflicts": [],
+ "to_check": [
+  {
+   "what": "polarity assumed",
+   "pin": null,
+   "detail": "2 contacts given + / − that the drawing does not mark (e.g. P1-16 INPUT -) (M600: 1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.jpg)"
+  },
+  {
+   "what": "polarity assumed",
+   "pin": null,
+   "detail": "2 contacts given + / − that the drawing does not mark (e.g. P1-16 INPUT -) (M600: 19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.jpg)"
+  }
  ]
 }

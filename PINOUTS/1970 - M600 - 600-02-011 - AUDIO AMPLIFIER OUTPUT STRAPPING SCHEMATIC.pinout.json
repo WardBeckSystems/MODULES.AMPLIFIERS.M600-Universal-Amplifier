@@ -1,0 +1,179 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.jpg",
+  "module": "M600",
+  "applies_to": [
+    "M600"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "B 600-02-011",
+    "title": "M600 AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC",
+    "date": null,
+    "issue": "3",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": null,
+      "rows": "numbered (3-16 shown)",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "-28dBm",
+      "signal": "INPUT +",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "(line, unlabelled)",
+      "signal": "INPUT -",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "strapped to 15",
+      "signal": "STRAP 7-15",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "strapped to 7",
+      "signal": "STRAP 7-15",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "3K9 to 14",
+      "signal": "GAIN STRAP (3K9)",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "3K9 to 6",
+      "signal": "GAIN STRAP (3K9)",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "+14dBm",
+      "signal": "OUTPUT +",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "strapped to 12",
+      "signal": "STRAP 4-12",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "strapped to 4",
+      "signal": "STRAP 4-12",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "(output line)",
+      "signal": "OUTPUT -",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": "-"
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-8",
+        "-": "P1-16"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-3",
+        "-": "P1-11"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "7-15",
+      "pins": [
+        "P1-7",
+        "P1-15"
+      ],
+      "note": "wire link"
+    },
+    {
+      "name": "6-14 3K9",
+      "pins": [
+        "P1-6",
+        "P1-14"
+      ],
+      "note": "3K9 resistor; -12dB IN HAND SETTING (48dB gain)"
+    },
+    {
+      "name": "4-12",
+      "pins": [
+        "P1-4",
+        "P1-12"
+      ],
+      "note": "wire link; 600 ohm output strapping"
+    }
+  ],
+  "unread": [
+    "Left half of the page cut off by the scan (8-output board assembly diagram and its title)",
+    "Pin 16 and pin 11 have no level/polarity label"
+  ],
+  "confidence": "medium",
+  "notes": "Output strapping schematic, not a full connector layout. M600 drawn as 48dB amplifier, -28dBm in on pin 8 (pin 16 the other input leg, unlabelled), +14dBm out on pins 3/11, feeding pairs of 300 ohm build-out resistors to outputs #1 and #2 (+8dBm 600 ohm, max output +18dBm). Note: 'FOR 1 OR 2 OUTPUTS (+8dBm 600 ohm) STRAP M600 FOR 600 ohm OUTPUT.' A second (left) diagram, cut off at the page edge, shows a board assembly of sixteen 300 ohm resistors feeding outputs #1-#8 (+8dBm 600 ohm, max +18dBm). Input polarity of 8/16 and output polarity of 3/11 inferred from the drawing order, not labelled."
+}
