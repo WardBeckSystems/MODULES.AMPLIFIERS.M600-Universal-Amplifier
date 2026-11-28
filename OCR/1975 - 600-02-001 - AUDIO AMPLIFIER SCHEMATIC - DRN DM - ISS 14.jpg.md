@@ -1,5 +1,5 @@
 # 1975 - 600-02-001 - AUDIO AMPLIFIER SCHEMATIC - DRN DM - ISS 14.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1975 (title block date)

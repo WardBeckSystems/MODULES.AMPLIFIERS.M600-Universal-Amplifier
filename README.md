@@ -1,6 +1,6 @@
 # M600 Universal Amplifier · Amplifiers
 
-Ward-Beck Systems M600, 1967|0. Wiki page: [M600 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M600.html)
+Ward-Beck Systems M600, 1967|0. Wiki page: [M600 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M600-Universal-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

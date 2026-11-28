@@ -1,5 +1,5 @@
 # 1967 - 60-4 - 60-4 INPUT TRANSFORMER.png
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1967 (title block date)

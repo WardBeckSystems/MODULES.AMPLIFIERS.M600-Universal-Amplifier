@@ -1,5 +1,5 @@
 # 1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1.png
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1987 (title block date)

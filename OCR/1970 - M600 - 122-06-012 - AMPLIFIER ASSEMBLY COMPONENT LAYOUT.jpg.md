@@ -1,5 +1,5 @@
 # 1970 - M600 - 122-06-012 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

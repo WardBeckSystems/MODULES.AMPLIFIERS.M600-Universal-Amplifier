@@ -1,5 +1,5 @@
 # 19xx - 600-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC - ISS 1.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** unknown (title block (read by eye))

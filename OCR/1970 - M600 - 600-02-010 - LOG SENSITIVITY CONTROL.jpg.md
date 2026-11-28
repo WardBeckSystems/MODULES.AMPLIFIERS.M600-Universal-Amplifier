@@ -1,5 +1,5 @@
 # 1970 - M600 - 600-02-010 - LOG SENSITIVITY CONTROL.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

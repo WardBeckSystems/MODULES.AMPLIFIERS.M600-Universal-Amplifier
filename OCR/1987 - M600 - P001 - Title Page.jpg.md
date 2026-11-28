@@ -1,5 +1,5 @@
 # 1987 - M600 - P001 - Title Page.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1987 (found in this file: "December 17 , 1987")

@@ -1,5 +1,5 @@
 # 1987 - 600-02-004 - MONITOR SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1987 (title block date)

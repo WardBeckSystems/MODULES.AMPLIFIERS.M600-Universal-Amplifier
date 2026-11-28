@@ -1,5 +1,5 @@
 # 1970 - M600 - 00-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

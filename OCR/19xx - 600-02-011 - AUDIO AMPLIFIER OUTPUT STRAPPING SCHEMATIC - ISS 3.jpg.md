@@ -1,5 +1,5 @@
 # 19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** unknown (title block (read by eye))

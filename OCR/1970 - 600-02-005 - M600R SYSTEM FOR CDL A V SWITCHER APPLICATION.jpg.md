@@ -1,5 +1,5 @@
 # 1970 - 600-02-005 - M600R SYSTEM FOR CDL A V SWITCHER APPLICATION.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1970 (title block date)

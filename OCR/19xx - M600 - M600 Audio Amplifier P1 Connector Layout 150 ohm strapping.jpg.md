@@ -1,5 +1,5 @@
 # 19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** unknown (title block (read by eye))

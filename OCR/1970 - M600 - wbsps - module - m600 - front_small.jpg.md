@@ -1,5 +1,5 @@
 # 1970 - M600 - wbsps - module - m600 - front_small.jpg
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

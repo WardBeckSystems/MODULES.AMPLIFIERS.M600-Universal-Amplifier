@@ -1,5 +1,5 @@
 # 19xx - 600-02-100 - M625B D TEST JIG SCHEMATIC (T625B) - DRN T. RICHARDSON - ENG T. RICHARDSON - ISS 1.png
-Wiki page: [M600](../../../../PAGES/M600.md)
+Wiki page: [M600](../)
 
 
 - **Year:** unknown (title block (read by eye))
