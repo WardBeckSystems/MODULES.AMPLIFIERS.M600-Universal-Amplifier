@@ -4,13 +4,12 @@ Ward-Beck Systems M600, 1967|0. Wiki page: [M600 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 97 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 27 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 209 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 30 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 96 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 13 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 26 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 208 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 29 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 69 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -151,6 +150,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Shared privately on Google Drive (opens after sign-in): [19xx - M600 - DOC - wbsps - module - mf6 mounting frame - front](https://drive.google.com/file/d/0B0yR0b5T78SKUFZLNEYyM21fTEk/view?resourcekey=0-PSphRmetzXxs0xCNu1BjOw)
 
+## 3-D model
+
+[`MECHANICAL/M600.stl`](MECHANICAL/M600.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M600)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M600 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M600.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -164,8 +172,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 Shared privately on Google Drive (opens after sign-in): [19xx - M600 - DOC - M600 - 600-02-003 - DOCUMENT](https://drive.google.com/file/d/0B0yR0b5T78SKbzFPMzQ3MnpXN1k/view?resourcekey=0-KXRDzVnJG-vFioaQ8RgXtQ) · [19xx - M600 - DOC - M600 - 600-06-001 - DOCUMENT](https://drive.google.com/file/d/0B0yR0b5T78SKc1pkdE9wVndpZGs/view?resourcekey=0-nUyqy3BVjjuk__lGeydGpw)
 
-Not on Google Drive yet: `1970 - 600-02-005 - M600R SYSTEM FOR CDL A V SWITCHER APPLICATION.jpg`, `1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png`, `1987 - 600-02-002 - STEREO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 2.png`, `1987 - 600-02-003 - MONO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 2.png`, `1987 - 600-02-004 - MONITOR SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png`, `1987 - 600-02-005 - LINE SELECTORS SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png`, `1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1.png`, `1987 - 600-02-008 - TALKBACK SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png`, `1987 - 600-02-009 - POWER SUPPLY WIRING SCHEMATIC - DRN JRG - ENG JRG - ISS 1.png`, `19xx - 600-02-010 - AUDIO AMPLIFIER SCHEMATIC - ISS 1.jpg`, `19xx - 600-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC - ISS 1.jpg`, `19xx - 600-02-100 - M625B D TEST JIG SCHEMATIC (T625B) - DRN T. RICHARDSON - ENG T. RICHARDSON - ISS 1.png`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -173,8 +179,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKajgyREdyNTA1bUE/view?resourcekey=0-F2ZbjMNiFR8wm3nyGytFSQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKajgyREdyNTA1bUE&resourcekey=0-F2ZbjMNiFR8wm3nyGytFSQ" width="240" alt="1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.jpg"></a><br><sub>1970|3 · 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC · <a href="PINOUTS/1970%20-%20M600%20-%20600-02-011%20-%20AUDIO%20AMPLIFIER%20OUTPUT%20STRAPPING%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1diTUX0kLAzPIB3jd9sLBW31VVorNAsNv/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1diTUX0kLAzPIB3jd9sLBW31VVorNAsNv" width="240" alt="1975 - 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1.jpg"></a><br><sub>1975|8 · 600-02-006 - EXTERNAL CONNECTIONS - DRN DM - ISS 1 · <a href="PINOUTS/1975%20-%20600-02-006%20-%20EXTERNAL%20CONNECTIONS%20-%20DRN%20DM%20-%20ISS%201%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.jpg`, `19xx - M600 - M600 Audio Amplifier P1 Connector Layout 150 ohm strapping.jpg`
 
 ## RTO-144 pinout
 
@@ -222,8 +226,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [1970|3 · wbsps - module - m600 - front](https://drive.google.com/file/d/0B0yR0b5T78SKWmFCc1F0QVI3SUE/view?resourcekey=0-VYudnE311AFjTZouFHIF4Q)
 
-Not on Google Drive yet: `1967 - 60-4 - 60-4 INPUT TRANSFORMER.png`, `19xx - M600 - M600 (3).jpg`, `19xx - M600 - M600.jpg`, `M600 - P002.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -257,7 +259,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 600-02-100 - M625B D TEST JIG SCHEMATIC (T625B) - DRN T. RICHARDSON - ENG T. RICHARDSON - ISS 1.kicad_sch](KICAD/19xx%20-%20600-02-100%20-%20M625B%20D%20TEST%20JIG%20SCHEMATIC%20(T625B)%20-%20DRN%20T.%20RICHARDSON%20-%20ENG%20T.%20RICHARDSON%20-%20ISS%201.kicad_sch)
 - [19xx - M600 - DOC - M600 - 600-02-003 - DOCUMENT.kicad_sch](KICAD/19xx%20-%20M600%20-%20DOC%20-%20M600%20-%20600-02-003%20-%20DOCUMENT.kicad_sch)
 - [M600.kicad_sym](KICAD/M600.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
